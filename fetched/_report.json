@@ -1,369 +1,847 @@
 [
  {
-  "out": "img/lens/mz-100-400-ii--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_100-400_5p0-6p3_is_ii/shots/278a4efe281243ee835b01b49de8ea30.png",
+  "out": "img/rev/fujifilm-x-h2s--g01.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/0337551665.jpg",
   "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_100-400_5p0-6p3_is_ii/shots/278a4efe281243ee835b01b49de8ea30.png",
-  "content_type": "image/png",
-  "bytes": 679985,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-100-400-ii--dprs2.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_100-400_5p0-6p3_is_ii/shots/451bd6c2a6744b8086e6f27cf7a2bb7b.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_100-400_5p0-6p3_is_ii/shots/451bd6c2a6744b8086e6f27cf7a2bb7b.png",
-  "content_type": "image/png",
-  "bytes": 711693,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-12-100--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_12-100_4p0_is_pro/shots/8df678c5d5884b80aea1a00cefe6d178.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_12-100_4p0_is_pro/shots/8df678c5d5884b80aea1a00cefe6d178.png",
-  "content_type": "image/png",
-  "bytes": 463510,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-12-100--dprs2.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_12-100_4p0_is_pro/shots/f11082a1a27041bc9083708cd3e2d35b.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_12-100_4p0_is_pro/shots/f11082a1a27041bc9083708cd3e2d35b.png",
-  "content_type": "image/png",
-  "bytes": 336380,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-12-40-ii--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_12-40_2p8_pro/shots/018ebe5f396b4c6cb8ad941d50d1fe06.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_12-40_2p8_pro/shots/018ebe5f396b4c6cb8ad941d50d1fe06.png",
-  "content_type": "image/png",
-  "bytes": 1114044,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-12-40-ii--dprs2.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_12-40_2p8_pro/shots/285871aab0e14bcaa9d2e685b841d7ce.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_12-40_2p8_pro/shots/285871aab0e14bcaa9d2e685b841d7ce.png",
-  "content_type": "image/png",
-  "bytes": 1066495,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-14-42-ez--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_14-42_3p5-5p6_ez/shots/a9e53714ccd84005a787739e0408a647.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_14-42_3p5-5p6_ez/shots/a9e53714ccd84005a787739e0408a647.png",
-  "content_type": "image/png",
-  "bytes": 577769,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-14-42-ez--dprs2.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_14-42_3p5-5p6_ez/shots/b1b50cd8d9c945349a5d18fb54c8c85e.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_14-42_3p5-5p6_ez/shots/b1b50cd8d9c945349a5d18fb54c8c85e.png",
-  "content_type": "image/png",
-  "bytes": 521264,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-17-f18--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_17_1p8/shots/e118a275a336473392ee612f5cb39816.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_17_1p8/shots/e118a275a336473392ee612f5cb39816.png",
-  "content_type": "image/png",
-  "bytes": 1229483,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-20-f14--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_20_1p4_pro/shots/3c049926c32b44b68b185592b6418449.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_20_1p4_pro/shots/3c049926c32b44b68b185592b6418449.png",
-  "content_type": "image/png",
-  "bytes": 1284660,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-20-f14--dprs2.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_20_1p4_pro/shots/f25bf812b8a044cd9d11b69960e06bae.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_20_1p4_pro/shots/f25bf812b8a044cd9d11b69960e06bae.png",
-  "content_type": "image/png",
-  "bytes": 1003155,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-25-f18--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_25_1p8/shots/8413c09420e743ca8313d13d24d992ca.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_25_1p8/shots/8413c09420e743ca8313d13d24d992ca.png",
-  "content_type": "image/png",
-  "bytes": 681806,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-25-f18--dprs2.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_25_1p8/shots/93993a518e1248449cccda46aeeedd5c.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_25_1p8/shots/93993a518e1248449cccda46aeeedd5c.png",
-  "content_type": "image/png",
-  "bytes": 701693,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-40-150-f28--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_40-150_2p8_pro/shots/6cf6932c372a4f38a0df9ff520caf76d.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_40-150_2p8_pro/shots/6cf6932c372a4f38a0df9ff520caf76d.png",
-  "content_type": "image/png",
-  "bytes": 1517325,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-45-f18--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_45_1p8/shots/390e90c8cb224769bca55b15a30c94b4.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_45_1p8/shots/390e90c8cb224769bca55b15a30c94b4.png",
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/0337551665.jpg",
   "content_type": "image/jpeg",
-  "bytes": 29688,
+  "bytes": 150133,
   "status": "ok"
  },
  {
-  "out": "img/lens/mz-60-macro--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_60_2p8/shots/14dec4b364e34c45ba77c2436870140d.png",
+  "out": "img/rev/fujifilm-x-h2s--g02.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/1523317368.jpg",
   "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_60_2p8/shots/14dec4b364e34c45ba77c2436870140d.png",
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/1523317368.jpg",
   "content_type": "image/jpeg",
-  "bytes": 27541,
+  "bytes": 110790,
   "status": "ok"
  },
  {
-  "out": "img/lens/mz-75-f18--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_75_1p8/shots/d284a5f91f554f6e8600b4fb0f3f3b22.png",
+  "out": "img/rev/fujifilm-x-h2s--g03.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/3852001627.jpg",
   "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_m_75_1p8/shots/d284a5f91f554f6e8600b4fb0f3f3b22.png",
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/3852001627.jpg",
   "content_type": "image/jpeg",
-  "bytes": 29475,
+  "bytes": 122369,
   "status": "ok"
  },
  {
-  "out": "img/lens/mz-8-25--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_8-25_4p0_pro/shots/130332f4797b4a85b74fe28b9f8cbb0f.png",
+  "out": "img/rev/fujifilm-x-h2s--g04.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/4795317004.jpg",
   "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_8-25_4p0_pro/shots/130332f4797b4a85b74fe28b9f8cbb0f.png",
-  "content_type": "image/png",
-  "bytes": 886044,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-8-25--dprs2.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_8-25_4p0_pro/shots/1aab53044393453c821bf8b204234cce.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_8-25_4p0_pro/shots/1aab53044393453c821bf8b204234cce.png",
-  "content_type": "image/png",
-  "bytes": 1049512,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-8-25--dprs3.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_8-25_4p0_pro/shots/38874706c7d04986bb987f95f91509bf.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_8-25_4p0_pro/shots/38874706c7d04986bb987f95f91509bf.png",
-  "content_type": "image/png",
-  "bytes": 1127358,
-  "status": "ok"
- },
- {
-  "out": "img/lens/mz-8-25--dprs4.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_8-25_4p0_pro/shots/7caac22e6bcc4b16ac051349aa2f9a65.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/olympus_8-25_4p0_pro/shots/7caac22e6bcc4b16ac051349aa2f9a65.png",
-  "content_type": "image/png",
-  "bytes": 1077772,
-  "status": "ok"
- },
- {
-  "out": "img/lens/sigma-10-18-x--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_10-18_2p8_dc_dn/shots/a8f553fa98df49a58ac9022d38ff4ea5.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_10-18_2p8_dc_dn/shots/a8f553fa98df49a58ac9022d38ff4ea5.png",
-  "content_type": "image/png",
-  "bytes": 1621891,
-  "status": "ok"
- },
- {
-  "out": "img/lens/sigma-10-18-x--dprs2.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_10-18_2p8_dc_dn/shots/e42cd413e35a4b8ab1ce185dc79485de.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_10-18_2p8_dc_dn/shots/e42cd413e35a4b8ab1ce185dc79485de.png",
-  "content_type": "image/png",
-  "bytes": 1267120,
-  "status": "ok"
- },
- {
-  "out": "img/lens/sigma-10-18-x--dprs3.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_10-18_2p8_dc_dn/shots/fefbbde74ad74482893b922341a69ffc.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_10-18_2p8_dc_dn/shots/fefbbde74ad74482893b922341a69ffc.png",
-  "content_type": "image/png",
-  "bytes": 1668569,
-  "status": "ok"
- },
- {
-  "out": "img/lens/sigma-16-f14-x--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_16_1p4_dc_dn_e-mount/shots/d465cc284d004ae2826c4c9f66099fe3.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_16_1p4_dc_dn_e-mount/shots/d465cc284d004ae2826c4c9f66099fe3.png",
-  "content_type": "image/png",
-  "bytes": 858380,
-  "status": "ok"
- },
- {
-  "out": "img/lens/sigma-23-f14-x--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_23_1p4_dc_dn_c/shots/f4b26d87fb734818a993dc5282206c25.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_23_1p4_dc_dn_c/shots/f4b26d87fb734818a993dc5282206c25.png",
-  "content_type": "image/png",
-  "bytes": 1117551,
-  "status": "ok"
- },
- {
-  "out": "img/lens/sigma-30-f14-x--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_30_1p4_dc_dn_c/shots/13defe683dbe44d78a7e071f6ed0fce7.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_30_1p4_dc_dn_c/shots/13defe683dbe44d78a7e071f6ed0fce7.png",
-  "content_type": "image/png",
-  "bytes": 1043831,
-  "status": "ok"
- },
- {
-  "out": "img/lens/sigma-30-f14-x--dprs2.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_30_1p4_dc_dn_c/shots/8ed1cfc76fc84eb1991db91bf23e693d.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/sigma_30_1p4_dc_dn_c/shots/8ed1cfc76fc84eb1991db91bf23e693d.png",
-  "content_type": "image/png",
-  "bytes": 1197968,
-  "status": "ok"
- },
- {
-  "out": "img/lens/xf-18-55--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_18-55/shots/732c5816c83c4d5a93be9338ceb8f32f.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_18-55/shots/732c5816c83c4d5a93be9338ceb8f32f.png",
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/4795317004.jpg",
   "content_type": "image/jpeg",
-  "bytes": 34884,
+  "bytes": 143184,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-35-f14--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_35mm/shots/d2f04e1b436246fd9a6e651f79cf91df.png",
+  "out": "img/rev/fujifilm-x-h2s--g05.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/5055025485.jpg",
   "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_35mm/shots/d2f04e1b436246fd9a6e651f79cf91df.png",
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/5055025485.jpg",
   "content_type": "image/jpeg",
-  "bytes": 26597,
+  "bytes": 132246,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-50-140--dprs1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_50-140_2p8_ois_wr/shots/bf441becbab14abaa6de7554e53d7321.png",
+  "out": "img/rev/fujifilm-x-h2s--g06.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/5189060511.jpg",
   "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_50-140_2p8_ois_wr/shots/bf441becbab14abaa6de7554e53d7321.png",
-  "content_type": "image/png",
-  "bytes": 517900,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/5189060511.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 153837,
   "status": "ok"
  },
  {
-  "out": "img/cam/om-system-om-1--dpr1.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_om1/shots/7c198efdfe2348ef9a0ede58bcd18600.png",
+  "out": "img/rev/fujifilm-x-h2s--g07.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/6098460195.jpg",
   "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_om1/shots/7c198efdfe2348ef9a0ede58bcd18600.png",
-  "content_type": "image/png",
-  "bytes": 1106217,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/6098460195.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 158675,
   "status": "ok"
  },
  {
-  "out": "img/cam/om-system-om-1--dpr2.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_om1/shots/ab5bac59d0e747d38a135e3314e1afea.png",
+  "out": "img/rev/fujifilm-x-h2s--g08.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/6334634162.jpg",
   "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_om1/shots/ab5bac59d0e747d38a135e3314e1afea.png",
-  "content_type": "image/png",
-  "bytes": 1554440,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/6334634162.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 152184,
   "status": "ok"
  },
  {
-  "out": "img/cam/om-system-om-1--dpr3.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_om1/shots/ce3631787c534704bda12b6e62999caf.png",
+  "out": "img/rev/fujifilm-x-h2s--g09.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/6654622212.jpg",
   "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/omsystem_om1/shots/ce3631787c534704bda12b6e62999caf.png",
-  "content_type": "image/png",
-  "bytes": 778314,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/6654622212.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 131827,
   "status": "ok"
  },
  {
-  "out": "html/rev/fujifilm-x-h2s.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/reviews/fujifilm-x-h2s-review",
+  "out": "img/rev/fujifilm-x-h2s--g10.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/6963490580.jpg",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20251114234604id_/https://www.dpreview.com/reviews/fujifilm-x-h2s-review",
-  "content_type": "text/html; charset=utf-8",
-  "bytes": 586886,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/6963490580.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 111628,
   "status": "ok"
  },
  {
-  "out": "html/rev/fujifilm-x-h2.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/reviews/fujifilm-x-h2-review",
-  "http": 404,
-  "final_url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/reviews/fujifilm-x-h2-review",
-  "content_type": "text/html",
+  "out": "img/rev/fujifilm-x-h2s--g11.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/7140407348.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/7140407348.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 66888,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-h2s--g12.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/7256328267.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/7256328267.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 111016,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-h2s--g13.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/7838342995.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/7838342995.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 100497,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-h2s--g14.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/8294698667.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/8294698667.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 133708,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-h2s--g15.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/9018180014.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/9018180014.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 105137,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-h2s--g16.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/9353268294.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/9353268294.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 161828,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-h2s--g17.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/9398028572.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/9398028572.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 143456,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-h2s--g18.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/9604437536.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/9604437536.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 134119,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-h2s--g19.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/9697224716.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/0500815763/9697224716.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 96864,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g01.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/0314728668.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/0314728668.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 99174,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g02.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/0363916514.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/0363916514.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 69607,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g03.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/0739355339.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/0739355339.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 103736,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g04.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/2960009913.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/2960009913.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 70994,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g05.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/3020529838.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/3020529838.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 73683,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g06.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/3342803873.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/3342803873.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 63241,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g07.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/3621357313.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/3621357313.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 55396,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g08.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/4215274204.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/4215274204.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 114304,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g09.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/4960640161.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/4960640161.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 90880,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g10.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/6003709790.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/6003709790.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 81605,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g11.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/6703912642.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/6703912642.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 115885,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g12.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/7368968434.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/7368968434.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 86600,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g13.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/7676365941.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/7676365941.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 98492,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g14.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/8919588174.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/8919588174.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 63748,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-pro3--g15.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/9135575033.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5133487436/9135575033.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 95746,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-s20--g01.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/0144485187.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/0144485187.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 90803,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-s20--g02.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/0508766282.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/0508766282.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 97449,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-s20--g03.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/1235404947.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/1235404947.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 93595,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-s20--g04.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/1524558621.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/1524558621.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 72046,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-s20--g05.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/7933021230.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/7933021230.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 75902,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-s20--g06.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/8448639794.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/8448639794.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 127217,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-s20--g07.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/8921384899.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/8921384899.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 88295,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-s20--g08.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/9781335253.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/5410088657/9781335253.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 108514,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g01.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/0459356646.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/0459356646.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 107128,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g02.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/0502368298.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/0502368298.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 70785,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g03.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/2167923246.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/2167923246.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 110094,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g04.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/2418020000.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/2418020000.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 136362,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g05.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/2506035264.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/2506035264.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 82148,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g06.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/2709381102.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/2709381102.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 105759,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g07.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/3176406139.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/3176406139.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 79715,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g08.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/3314153727.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/3314153727.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 67166,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g09.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/4511949970.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/4511949970.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 83642,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g10.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/5081198010.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/5081198010.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 61764,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g11.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/6031828781.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/6031828781.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 94091,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g12.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/6238164867.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/6238164867.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 86567,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g13.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/6999246963.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/6999246963.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 83560,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g14.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/7047312468.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/7047312468.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 123527,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g15.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/7154993372.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/7154993372.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 79932,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g16.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/7627992772.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/7627992772.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 72393,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g17.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/8606346419.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/8606346419.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 83444,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g18.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/8725381017.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/8725381017.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 97237,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g19.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/9254578914.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/9254578914.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 61366,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/fujifilm-x-t50--g20.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/9255293049.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/7641176459/9255293049.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 88056,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g01.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/0619532690.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/0619532690.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 126168,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g02.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/1172053193.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/1172053193.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 119494,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g03.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/1595931194.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/1595931194.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 123309,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g04.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/1611383400.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/1611383400.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 108161,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g05.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/1781784511.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/1781784511.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 98484,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g06.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/1821585727.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/1821585727.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 100473,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g07.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/3988495799.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/3988495799.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 101246,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g08.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/4633843445.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/4633843445.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 84588,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g09.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/4910508583.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/4910508583.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 105348,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g10.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/5478734827.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/5478734827.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 120788,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g11.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/5642691558.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/5642691558.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 117056,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g12.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/5968382398.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/5968382398.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 123857,
+  "status": "ok"
+ },
+ {
+  "out": "img/rev/om-system-om-5--g13.jpg",
+  "url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/8753286066.jpg",
+  "http": 200,
+  "final_url": "https://1.img-dpreview.com/files/p/TS800x800~sample_galleries/1698645516/8753286066.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 88779,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/xf-16-55-ii.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_16-55_2p8_r_lm_wr_ii",
+  "http": 403,
+  "final_url": "https://web.archive.org/web/20260215223911id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_16-55_2p8_r_lm_wr_ii",
+  "content_type": "text/html; charset=UTF-8",
   "status": "http-error"
  },
  {
-  "out": "html/rev/fujifilm-x-s20.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/reviews/fujifilm-x-s20-review",
+  "out": "html/dprlp/xf-16-80.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_16-80_4_r_ois_wr",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20260225032814id_/https://www.dpreview.com/reviews/fujifilm-x-s20-review",
+  "final_url": "https://web.archive.org/web/20250425195252id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_16-80_4_r_ois_wr/",
   "content_type": "text/html; charset=utf-8",
-  "bytes": 507615,
+  "bytes": 137622,
   "status": "ok"
  },
  {
-  "out": "html/rev/fujifilm-x-pro3.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/reviews/fujifilm-x-pro3-review",
+  "out": "html/dprlp/xf-70-300.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_70-300_4p0-5p6_r_lm_ois_wr",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20260108015956id_/https://www.dpreview.com/reviews/fujifilm-x-pro3-review",
-  "content_type": "text/html; charset=utf-8",
-  "bytes": 428544,
+  "final_url": "https://web.archive.org/web/20260710042927id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_70-300_4p0-5p6_r_lm_ois_wr/",
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 834034,
   "status": "ok"
  },
  {
-  "out": "html/rev/fujifilm-x-t50.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/reviews/fujifilm-x-t50-review",
+  "out": "html/dprlp/xf-10-24.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_10-24_r_ois_wr",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20260616230643id_/https://www.dpreview.com/reviews/fujifilm-x-t50-review",
+  "final_url": "https://web.archive.org/web/20251010190716id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_10-24_r_ois_wr",
   "content_type": "text/html; charset=utf-8",
-  "bytes": 465308,
+  "bytes": 125319,
   "status": "ok"
  },
  {
-  "out": "html/rev/om-system-om-5.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/reviews/om-system-om-5-review",
+  "out": "html/dprlp/xf-150-600.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_150-600_5p6_8_r_lm_ois_wr",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20260318153627id_/https://www.dpreview.com/reviews/om-system-om-5-review",
+  "final_url": "https://web.archive.org/web/20251010190624id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_150-600_5p6_8_r_lm_ois_wr",
   "content_type": "text/html; charset=utf-8",
-  "bytes": 471176,
+  "bytes": 113487,
   "status": "ok"
  },
  {
-  "out": "html/rev/om-system-om-1-ii.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/reviews/om-system-om-1-mark-ii-review",
-  "http": 404,
-  "final_url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/reviews/om-system-om-1-mark-ii-review",
-  "content_type": "text/html",
-  "status": "http-error"
+  "out": "html/dprlp/xf-18-f14.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_18_1p4_r_lm_wr",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251010190654id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_18_1p4_r_lm_wr",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 173768,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/xf-23-f14.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_23_1p4_r_lm_wr",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260513133425id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_23_1p4_r_lm_wr",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 132945,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/xf-33-f14.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_33_1p4_r_lm_wr",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20250424191739id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_33_1p4_r_lm_wr/",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 150206,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/xf-56-f12.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_56_1p2_r_wr",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20250427092403id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_56_1p2_r_wr/",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 128504,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/xf-27-f28.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_27mm_r_wr",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20241204091615id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_27mm_r_wr/",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 133577,
+  "status": "ok"
+ },
+ {
+  "out": "json/commons3/mz-14-42-ez.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2214-42mm%22%20intitle%3AEZ&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2214-42mm%22%20intitle%3AEZ&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 20,
+  "status": "ok"
+ },
+ {
+  "out": "json/commons3/mz-17-f18.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2217mm%22%20intitle%3AZuiko&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2217mm%22%20intitle%3AZuiko&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 1134,
+  "status": "ok"
+ },
+ {
+  "out": "json/commons3/mz-25-f18.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2225mm%22%20intitle%3AZuiko&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2225mm%22%20intitle%3AZuiko&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 3863,
+  "status": "ok"
+ },
+ {
+  "out": "json/commons3/mz-45-f18.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2245mm%22%20intitle%3AZuiko&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2245mm%22%20intitle%3AZuiko&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 2662,
+  "status": "ok"
+ },
+ {
+  "out": "json/commons3/mz-75-f18.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2275mm%22%20intitle%3AZuiko&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2275mm%22%20intitle%3AZuiko&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 20,
+  "status": "ok"
+ },
+ {
+  "out": "json/commons3/mz-60-macro.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2260mm%22%20intitle%3AZuiko&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%2260mm%22%20intitle%3AZuiko&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 3373,
+  "status": "ok"
+ },
+ {
+  "out": "json/commons3/mz-9-18-ii.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%229-18mm%22&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%229-18mm%22&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 2264,
+  "status": "ok"
+ },
+ {
+  "out": "json/commons3/xf-18-55.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%22XF%22%20intitle%3A%2218-55mm%22&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%22XF%22%20intitle%3A%2218-55mm%22&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 20,
+  "status": "ok"
+ },
+ {
+  "out": "json/commons3/xf-35-f14.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%22XF%2035mm%22&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=intitle%3A%22XF%2035mm%22&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 2219,
+  "status": "ok"
  }
 ]
