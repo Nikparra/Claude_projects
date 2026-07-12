@@ -20,6 +20,56 @@ Open `index.html` in any browser — no build step, no server, no dependencies.
   (`Copy link` button).
 - Dark/light theme follows the system preference.
 
+## Photos
+
+The app renders **real product photos to scale** wherever a photo is defined,
+and falls back to the schematic drawing for anything missing, still loading,
+or broken — so partial photo coverage is always safe. Toggle between the two
+with the **Photos** checkbox.
+
+For each photo the app tries, in order:
+
+1. `images/<id>-<view>.png` / `.jpg` — a local copy in this repo
+2. the remote `src` URL from `data.js` (loaded by *your* browser)
+3. the schematic drawing
+
+Run `node tools/fetch-images.mjs` once (on a machine with normal internet
+access) to download every remote photo into `images/`, making the site
+self-contained and independent of third-party hosts.
+
+### Photo schema and calibration
+
+```js
+// on a camera:
+photos: {
+  top:   { src: 'images/… or https://…',
+           widthMM: 129.5,      // real-world width the image spans (default: body width)
+           backFrac: 0.07,      // fraction of image height (from the bottom) where the
+                                //   LCD-back plane sits — this is the alignment anchor
+           includesLens: false  // true if the shot already has a lens mounted
+         },
+  front: { src: '…', widthMM: 129.5 },
+  rear:  { src: '…', widthMM: 129.5 },
+},
+
+// on a lens (upright side profile, mount at the bottom):
+photo: { src: '…', diameterMM: 78.3, lengthMM: 95, mountEnd: 'bottom' /* or 'top' */ },
+```
+
+Calibration tips: `widthMM` is the physical width of what the image actually
+shows edge-to-edge — if the photo has padding around the camera, increase it
+proportionally (a photo where the body occupies 90% of the width needs
+`widthMM = bodyWidth / 0.9`). Get depth alignment right with `backFrac`, or
+just eyeball it with the per-camera nudge slider. Photos should be straight-on
+shots (top plate from directly above; front/rear straight on), ideally with a
+transparent or white background.
+
+To add photos, the easiest path is a Claude session on your own machine:
+
+> "Find clean top-down and front product photos for the X-T5 and OM-3, download
+> them into camera-size-comparison/images/, and wire them into data.js with
+> calibrated widthMM/backFrac."
+
 ## Data
 
 All dimensions and weights come from manufacturer-published specifications

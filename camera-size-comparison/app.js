@@ -15,7 +15,49 @@ const state = {
   align: 'lcd',
   zoom: 2.2,
   overlay: false,
+  photoMode: true,           // use real photos where available
 };
+
+/* ---------- photo loading ----------
+ * A photo spec ({src, widthMM?, ...}) may point at a remote URL or a local
+ * file. We always try the local mirror (images/<id>-<view>.png|.jpg, which
+ * tools/fetch-images.mjs populates) before the remote src, and fall back to
+ * the schematic drawing when nothing loads.
+ */
+const IMG = new Map();       // url -> {status: 'loading'|'ok'|'fail', w, h}
+let renderQueued = false;
+function scheduleRender() {
+  if (renderQueued) return;
+  renderQueued = true;
+  requestAnimationFrame(() => { renderQueued = false; update(); });
+}
+function probeImage(url) {
+  let rec = IMG.get(url);
+  if (rec) return rec;
+  rec = { status: 'loading', w: 0, h: 0 };
+  IMG.set(url, rec);
+  const im = new Image();
+  im.onload = () => { rec.status = 'ok'; rec.w = im.naturalWidth; rec.h = im.naturalHeight; scheduleRender(); };
+  im.onerror = () => { rec.status = 'fail'; scheduleRender(); };
+  im.src = url;
+  return rec;
+}
+/* Resolve a usable photo for `id` + `view`; null if none loaded (yet). */
+function getPhoto(id, view, spec) {
+  if (!state.photoMode || !spec || !spec.src) return null;
+  const candidates = spec.src.startsWith('data:') ? [spec.src]
+    : [`images/${id}-${view}.png`, `images/${id}-${view}.jpg`, spec.src];
+  for (const url of candidates) {
+    const rec = probeImage(url);
+    if (rec.status === 'ok') return { url, w: rec.w, h: rec.h, spec };
+    if (rec.status === 'loading') return null;   // wait; schematic in the meantime
+  }
+  return null;
+}
+function photoEl(ph, xPx, yPx, wPx, hPx, extra = {}) {
+  return el('image', { href: ph.url, x: xPx, y: yPx, width: wPx, height: hPx,
+    preserveAspectRatio: 'xMidYMid meet', ...extra });
+}
 
 const camById = id => CAMERAS.find(c => c.id === id);
 const lensById = id => LENSES.find(l => l.id === id);
@@ -102,6 +144,51 @@ function drawTop(slot, cam, lens, color) {
       fill, stroke: line, 'stroke-width': 1.4, ...extra,
     });
 
+  // draws the mounted lens (photo if available, else schematic); returns its front z
+  const drawLens = () => {
+    if (!lens) return g.core;
+    const lensPh = lens.builtIn ? null : getPhoto(slot.lensId, 'top', lens.photo);
+    if (lensPh) {
+      const dMM = lensPh.spec.diameterMM || lens.diameterMM;
+      const lMM = lensPh.spec.lengthMM || lens.lengthMM;
+      const img = photoEl(lensPh, (g.mountX - dMM / 2) * s, zy(g.core + lMM), dMM * s, lMM * s,
+        { preserveAspectRatio: 'xMidYMax meet' });
+      if (lensPh.spec.mountEnd === 'top') {
+        const cx = g.mountX * s, cyPx = zy(g.core + lMM / 2);
+        img.setAttribute('transform', `rotate(180 ${cx} ${cyPx})`);
+      }
+      grp.appendChild(img);
+      return g.core + lMM;
+    }
+    const lx = g.mountX - lens.diameterMM / 2;
+    if (!lens.builtIn) {
+      grp.appendChild(rect(g.mountX - g.mountExt / 2, g.core, g.core + 2.5, g.mountExt, 1.5, body));
+    }
+    grp.appendChild(rect(lx, g.core, g.core + lens.lengthMM, lens.diameterMM, 3, body));
+    // ring bands
+    for (const f of [0.30, 0.58]) {
+      const z0 = g.core + lens.lengthMM * f;
+      grp.appendChild(rect(lx + 1, z0, Math.min(z0 + lens.lengthMM * 0.12, g.core + lens.lengthMM - 2), lens.diameterMM - 2, 1, line, { 'fill-opacity': 0.15, 'stroke-width': 0 }));
+    }
+    // front bevel
+    grp.appendChild(rect(lx + 2, g.core + lens.lengthMM - 2.5, g.core + lens.lengthMM - 0.5, lens.diameterMM - 4, 1, line, { 'fill-opacity': 0.5, 'stroke-width': 0 }));
+    return g.core + lens.lengthMM;
+  };
+
+  // photo body: a calibrated top-down shot replaces the schematic body
+  const camPh = getPhoto(cam.id, 'top', cam.photos?.top);
+  if (camPh) {
+    const wMM = camPh.spec.widthMM || cam.widthMM;
+    const hMM = wMM * camPh.h / camPh.w;
+    const backFrac = camPh.spec.backFrac ?? Math.min(g.eyecup / hMM, 0.3);
+    const zBottom = -backFrac * hMM;
+    grp.appendChild(photoEl(camPh, (cam.widthMM - wMM) / 2 * s, zy(zBottom + hMM), wMM * s, hMM * s));
+    const frontZ = camPh.spec.includesLens ? g.core : drawLens();
+    const topZ = Math.max(zBottom + hMM, frontZ);
+    return { group: grp, widthMM: Math.max(cam.widthMM, wMM),
+      above: topZ - az, below: Math.max(az - zBottom, az + g.eyecup), W };
+  }
+
   // eyecup / rear EVF protrusion
   if (g.eyecup > 0) {
     const ew = cam.evf === 'center' ? g.humpW * 0.7 : 18;
@@ -118,23 +205,7 @@ function drawTop(slot, cam, lens, color) {
   const lcdW = Math.min(64, cam.widthMM * 0.55);
   grp.appendChild(rect(cam.widthMM * 0.5 - lcdW * 0.62, 0, 2.5, lcdW, 1, line, { 'fill-opacity': 0.55, 'stroke-width': 0 }));
 
-  // lens
-  if (lens) {
-    const lx = g.mountX - lens.diameterMM / 2;
-    if (!lens.builtIn) {
-      grp.appendChild(rect(g.mountX - g.mountExt / 2, g.core, g.core + 2.5, g.mountExt, 1.5, body));
-    }
-    grp.appendChild(rect(lx, g.core, g.core + lens.lengthMM, lens.diameterMM, 3, body));
-    // ring bands
-    for (const f of [0.30, 0.58]) {
-      const z0 = g.core + lens.lengthMM * f;
-      grp.appendChild(rect(lx + 1, z0, Math.min(z0 + lens.lengthMM * 0.12, g.core + lens.lengthMM - 2), lens.diameterMM - 2, 1, line, { 'fill-opacity': 0.15, 'stroke-width': 0 }));
-    }
-    // front bevel
-    grp.appendChild(rect(lx + 2, g.core + lens.lengthMM - 2.5, g.core + lens.lengthMM - 0.5, lens.diameterMM - 4, 1, line, { 'fill-opacity': 0.5, 'stroke-width': 0 }));
-  }
-
-  const frontZ = g.core + (lens ? lens.lengthMM : 0);
+  const frontZ = drawLens();
   return { group: grp, widthMM: cam.widthMM, above: frontZ - az, below: az + g.eyecup, W };
 }
 
@@ -152,6 +223,15 @@ function drawFront(slot, cam, lens, color) {
     el('rect', { x: x * s, y: (yTop - H) * s, width: w * s, height: h * s, rx: r, fill, stroke: color, 'stroke-width': 1.4, ...extra });
   const circ = (cx, cy, rMM, fill, extra = {}) =>
     el('circle', { cx: cx * s, cy: (cy - H) * s, r: rMM * s, fill, stroke: color, 'stroke-width': 1.4, ...extra });
+
+  const camPh = getPhoto(cam.id, 'front', cam.photos?.front);
+  if (camPh) {
+    const wMM = camPh.spec.widthMM || cam.widthMM;
+    const hMM = wMM * camPh.h / camPh.w;
+    const layoutW = Math.max(cam.widthMM, wMM);
+    grp.appendChild(photoEl(camPh, (layoutW - wMM) / 2 * s, -hMM * s, wMM * s, hMM * s));
+    return { group: grp, widthMM: layoutW, heightMM: hMM };
+  }
 
   // main body below the hump line
   grp.appendChild(rect(0, g.humpH, cam.widthMM, H - g.humpH, 5, body));
@@ -194,6 +274,15 @@ function drawRear(slot, cam, lens, color) {
 
   const rect = (x, yTop, w, h, r, fill, extra = {}) =>
     el('rect', { x: x * s, y: (yTop - H) * s, width: w * s, height: h * s, rx: r, fill, stroke: color, 'stroke-width': 1.4, ...extra });
+
+  const camPh = getPhoto(cam.id, 'rear', cam.photos?.rear);
+  if (camPh) {
+    const wMM = camPh.spec.widthMM || cam.widthMM;
+    const hMM = wMM * camPh.h / camPh.w;
+    const layoutW = Math.max(cam.widthMM, wMM);
+    grp.appendChild(photoEl(camPh, (layoutW - wMM) / 2 * s, -hMM * s, wMM * s, hMM * s));
+    return { group: grp, widthMM: layoutW, heightMM: hMM };
+  }
 
   grp.appendChild(rect(0, g.humpH, cam.widthMM, H - g.humpH, 5, body));
   if (g.humpH > 0) {
@@ -471,7 +560,7 @@ function renderSlots() {
 
 function writeHash() {
   const c = state.slots.map(s => `${s.camId}~${s.lensId || ''}~${s.nudge}`).join(',');
-  const h = `#c=${c}&align=${state.align}&z=${state.zoom}&ov=${state.overlay ? 1 : 0}`;
+  const h = `#c=${c}&align=${state.align}&z=${state.zoom}&ov=${state.overlay ? 1 : 0}&ph=${state.photoMode ? 1 : 0}`;
   history.replaceState(null, '', h);
 }
 
@@ -488,6 +577,7 @@ function readHash() {
     if (['lcd', 'eyecup', 'mount', 'front'].includes(p.get('align'))) state.align = p.get('align');
     const z = parseFloat(p.get('z')); if (z >= 1.2 && z <= 4) state.zoom = z;
     state.overlay = p.get('ov') === '1';
+    if (p.has('ph')) state.photoMode = p.get('ph') === '1';
     return true;
   } catch { return false; }
 }
@@ -513,10 +603,12 @@ function init() {
   document.getElementById('alignMode').value = state.align;
   document.getElementById('zoom').value = state.zoom;
   document.getElementById('overlayToggle').checked = state.overlay;
+  document.getElementById('photoToggle').checked = state.photoMode;
 
   document.getElementById('alignMode').addEventListener('change', ev => { state.align = ev.target.value; update(); });
   document.getElementById('zoom').addEventListener('input', ev => { state.zoom = parseFloat(ev.target.value); update(); });
   document.getElementById('overlayToggle').addEventListener('change', ev => { state.overlay = ev.target.checked; update(); });
+  document.getElementById('photoToggle').addEventListener('change', ev => { state.photoMode = ev.target.checked; update(); });
   document.getElementById('shareBtn').addEventListener('click', async () => {
     writeHash();
     try { await navigator.clipboard.writeText(location.href); } catch { /* http fallback below */ }
@@ -527,6 +619,7 @@ function init() {
   window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', update);
   // re-render SVGs (they bake in theme colors) when a host theme toggle flips data-theme
   new MutationObserver(update).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+  window.__csrRender = update;   // console/testing hook: re-render after mutating data
   update();
 }
 
