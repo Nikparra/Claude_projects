@@ -1,559 +1,842 @@
 [
  {
-  "out": "html/cam/fujifilm-x-t5--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/cameras/x-t5/",
+  "out": "img/lens/xf-16-55-ii--cand1.jpeg",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2024/10/xf16-55mmf28-ii_product-overview_01-1.jpeg",
   "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/cameras/x-t5/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 214417,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2024/10/xf16-55mmf28-ii_product-overview_01-1.jpeg",
+  "content_type": "image/jpeg",
+  "bytes": 72913,
   "status": "ok"
  },
  {
-  "out": "html/cam/fujifilm-x-t50--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/cameras/x-t50/",
+  "out": "img/lens/xf-16-55-ii--cand2.jpeg",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2024/10/xf16-55mmf28-ii_product-overview_02-1.jpeg",
   "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/cameras/x-t50/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 325291,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2024/10/xf16-55mmf28-ii_product-overview_02-1.jpeg",
+  "content_type": "image/jpeg",
+  "bytes": 145596,
   "status": "ok"
  },
  {
-  "out": "html/cam/fujifilm-x-h2--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/cameras/x-h2/",
+  "out": "img/lens/xf-16-55-ii--cand3.jpeg",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2024/10/xf16-55mmf28-ii_product-overview_03-1.jpeg",
   "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/cameras/x-h2/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 229569,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2024/10/xf16-55mmf28-ii_product-overview_03-1.jpeg",
+  "content_type": "image/jpeg",
+  "bytes": 96588,
   "status": "ok"
  },
  {
-  "out": "html/cam/fujifilm-x-h2s--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/cameras/x-h2s/",
+  "out": "img/lens/xf-18-55--cand1.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/09/xf18-55mmf28-4-r-lm-ois-overview_images01.webp",
   "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/cameras/x-h2s/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 229540,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/09/xf18-55mmf28-4-r-lm-ois-overview_images01.webp",
+  "content_type": "image/webp",
+  "bytes": 33346,
   "status": "ok"
  },
  {
-  "out": "html/cam/fujifilm-x-s20--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/cameras/x-s20/",
+  "out": "img/lens/xf-16-80--cand1.jpg",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2019/10/xf16-80mmf4-r-ois-wr_feature01.jpg",
   "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/cameras/x-s20/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 204634,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2019/10/xf16-80mmf4-r-ois-wr_feature01.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 63955,
   "status": "ok"
  },
  {
-  "out": "html/cam/fujifilm-x-m5--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/cameras/x-m5/",
+  "out": "img/lens/xf-16-80--cand2.jpg",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2019/10/xf16-80mmf4-r-ois-wr_feature02.jpg",
   "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/cameras/x-m5/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 329893,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2019/10/xf16-80mmf4-r-ois-wr_feature02.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 72334,
   "status": "ok"
  },
  {
-  "out": "html/cam/fujifilm-x100vi--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/cameras/x100vi/",
+  "out": "img/lens/xf-16-80--cand3.jpg",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2019/10/xf16-80mmf4-r-ois-wr_thum.jpg",
   "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/cameras/x100vi/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 216465,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2019/10/xf16-80mmf4-r-ois-wr_thum.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 20020,
   "status": "ok"
  },
  {
-  "out": "html/cam/fujifilm-x-pro3--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/cameras/x-pro3/",
+  "out": "img/lens/xf-70-300--img03.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf70-300mm_img03_2101.webp",
   "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/cameras/x-pro3/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 222079,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf70-300mm_img03_2101.webp",
+  "content_type": "image/webp",
+  "bytes": 221514,
   "status": "ok"
  },
  {
-  "out": "html/cam/fujifilm-x-e4--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/cameras/x-e4/",
+  "out": "img/lens/xf-70-300--top.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf70-300mm_top.webp",
   "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/cameras/x-e4/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 183495,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf70-300mm_top.webp",
+  "content_type": "image/webp",
+  "bytes": 80848,
   "status": "ok"
  },
  {
-  "out": "html/cam/om-system-om-1-ii--om.html",
-  "url": "https://explore.omsystem.com/us/en/om-1-mark-ii",
+  "out": "img/lens/xf-50-140--cand1.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/10/img_01.webp",
   "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/om-1-mark-ii",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 1092206,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/10/img_01.webp",
+  "content_type": "image/webp",
+  "bytes": 10600,
   "status": "ok"
  },
  {
-  "out": "html/cam/om-system-om-3--om.html",
-  "url": "https://explore.omsystem.com/us/en/om-3",
+  "out": "img/lens/xf-50-140--cand2.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/10/img_03-scaled.webp",
   "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/om-3",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 1098097,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/10/img_03-scaled.webp",
+  "content_type": "image/webp",
+  "bytes": 439816,
   "status": "ok"
  },
  {
-  "out": "html/cam/om-system-om-5--om.html",
-  "url": "https://explore.omsystem.com/us/en/om-5",
+  "out": "img/lens/xf-50-140--cand3.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/10/img_04.webp",
   "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/om-5",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 980699,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/10/img_04.webp",
+  "content_type": "image/webp",
+  "bytes": 76992,
   "status": "ok"
  },
  {
-  "out": "html/cam/om-system-om-5-ii--om.html",
-  "url": "https://explore.omsystem.com/us/en/om-5-mark-ii",
+  "out": "img/lens/xf-10-24--cand1.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/11/xf10-24mmf4-r-ois-wr_img_01-poiu.webp",
   "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/om-5-mark-ii",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 1101101,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/11/xf10-24mmf4-r-ois-wr_img_01-poiu.webp",
+  "content_type": "image/webp",
+  "bytes": 217438,
   "status": "ok"
  },
  {
-  "out": "html/cam/olympus-e-m10-iv--oly.html",
-  "url": "https://asia.olympus-imaging.com/product/dslr/em10mk4/",
-  "status": "exception",
-  "error": "ConnectionError: HTTPSConnectionPool(host='asia.olympus-imaging.com', port=443): Max retries exceeded with url: /product/dslr/em10mk4/ (Caused by NameResolutionError(\"HTTPSConnection(host='asia.olympus-imaging.com', port=443): Failed to resolve 'asia.olympus-imaging.com' ([Errno -2] Name or service not known)\"))"
+  "out": "img/lens/xf-10-24--cand2.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/11/xf10-24mmf4-r-ois-wr_img_02-poiu.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/11/xf10-24mmf4-r-ois-wr_img_02-poiu.webp",
+  "content_type": "image/webp",
+  "bytes": 108458,
+  "status": "ok"
  },
  {
-  "out": "html/cam/olympus-e-p7--oly.html",
-  "url": "https://asia.olympus-imaging.com/product/dslr/ep7/",
-  "status": "exception",
-  "error": "ConnectionError: HTTPSConnectionPool(host='asia.olympus-imaging.com', port=443): Max retries exceeded with url: /product/dslr/ep7/ (Caused by NameResolutionError(\"HTTPSConnection(host='asia.olympus-imaging.com', port=443): Failed to resolve 'asia.olympus-imaging.com' ([Errno -2] Name or service not known)\"))"
+  "out": "img/lens/xf-10-24--cand3.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/11/xf10-24mmf4-r-ois-wr_img_03-poiu.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/11/xf10-24mmf4-r-ois-wr_img_03-poiu.webp",
+  "content_type": "image/webp",
+  "bytes": 115586,
+  "status": "ok"
  },
  {
-  "out": "html/cam/fujifilm-x-t5--dpr.html",
-  "url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt5",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt5",
-  "content_type": "text/html; charset=UTF-8",
+  "out": "img/lens/xf-150-600--img01.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf150-600mmf56-8-r-lm-ois-wr_img01_mgpf.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf150-600mmf56-8-r-lm-ois-wr_img01_mgpf.webp",
+  "content_type": "image/webp",
+  "bytes": 104064,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-150-600--img02.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf150-600mmf56-8-r-lm-ois-wr_img02_mgpf.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf150-600mmf56-8-r-lm-ois-wr_img02_mgpf.webp",
+  "content_type": "image/webp",
+  "bytes": 73702,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-150-600--img03.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf150-600mmf56-8-r-lm-ois-wr_img03_mgpf.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf150-600mmf56-8-r-lm-ois-wr_img03_mgpf.webp",
+  "content_type": "image/webp",
+  "bytes": 114502,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-150-600--top.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf150-600mmf56-8-r-lm-ois-wr_top_mgpf.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf150-600mmf56-8-r-lm-ois-wr_top_mgpf.webp",
+  "content_type": "image/webp",
+  "bytes": 74804,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-18-f14--img03.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/11/xf18mmf14-r-lm-wr_img03_haoi.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/11/xf18mmf14-r-lm-wr_img03_haoi.webp",
+  "content_type": "image/webp",
+  "bytes": 275708,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-18-f14--top.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/11/xf18mmf14-r-lm-wr_top_haoi.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/11/xf18mmf14-r-lm-wr_top_haoi.webp",
+  "content_type": "image/webp",
+  "bytes": 89628,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-23-f14--img01.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf23mmf14-r-lm-wr_img01_1214.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf23mmf14-r-lm-wr_img01_1214.webp",
+  "content_type": "image/webp",
+  "bytes": 771784,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-23-f14--img02.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf23mmf14-r-lm-wr_img02_1214.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf23mmf14-r-lm-wr_img02_1214.webp",
+  "content_type": "image/webp",
+  "bytes": 54146,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-23-f14--img03.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf23mmf14-r-lm-wr_img03_1214.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf23mmf14-r-lm-wr_img03_1214.webp",
+  "content_type": "image/webp",
+  "bytes": 32636,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-23-f14--top.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf23mmf14-r-lm-wr_top_1214.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf23mmf14-r-lm-wr_top_1214.webp",
+  "content_type": "image/webp",
+  "bytes": 86240,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-33-f14--img01.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf33mmf14-r-lm-wr_img01_nakp.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf33mmf14-r-lm-wr_img01_nakp.webp",
+  "content_type": "image/webp",
+  "bytes": 153886,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-33-f14--img02.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf33mmf14-r-lm-wr_img02_nakp.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf33mmf14-r-lm-wr_img02_nakp.webp",
+  "content_type": "image/webp",
+  "bytes": 130142,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-33-f14--img03.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf33mmf14-r-lm-wr_img03_nakp.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf33mmf14-r-lm-wr_img03_nakp.webp",
+  "content_type": "image/webp",
+  "bytes": 57432,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-33-f14--top.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf33mmf14-r-lm-wr_top_nakp.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf33mmf14-r-lm-wr_top_nakp.webp",
+  "content_type": "image/webp",
+  "bytes": 93534,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-35-f14--top.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/09/XF35-14_banner_top.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2025/09/XF35-14_banner_top.webp",
+  "content_type": "image/webp",
+  "bytes": 67534,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-56-f12--img01.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf56mmf12-r-wr_img01_qwer.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf56mmf12-r-wr_img01_qwer.webp",
+  "content_type": "image/webp",
+  "bytes": 45694,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-56-f12--img02.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf56mmf12-r-wr_img02_qwer.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf56mmf12-r-wr_img02_qwer.webp",
+  "content_type": "image/webp",
+  "bytes": 94588,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-56-f12--img03.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf56mmf12-r-wr_img03_qwer-1.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf56mmf12-r-wr_img03_qwer-1.webp",
+  "content_type": "image/webp",
+  "bytes": 51752,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-56-f12--top.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf56mmf12-r-wr_top_qwer.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf56mmf12-r-wr_top_qwer.webp",
+  "content_type": "image/webp",
+  "bytes": 82042,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-27-f28--img03.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf27mmf28_img03.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf27mmf28_img03.webp",
+  "content_type": "image/webp",
+  "bytes": 138434,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/xf-27-f28--top.webp",
+  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf27mmf28_banner_top.webp",
+  "http": 200,
+  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2026/03/xf27mmf28_banner_top.webp",
+  "content_type": "image/webp",
+  "bytes": 114906,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/sigma-18-50-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/c021_18_50_28_product_img01.png",
+  "http": 200,
+  "final_url": "https://www.sigma-global.com/lenses/c021_18_50_28_product_img01.png",
+  "content_type": "image/png",
+  "bytes": 153140,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/sigma-18-50-x--img02.png",
+  "url": "https://www.sigma-global.com/lenses/c021_18_50_28_product_img02.png",
+  "http": 200,
+  "final_url": "https://www.sigma-global.com/lenses/c021_18_50_28_product_img02.png",
+  "content_type": "image/png",
+  "bytes": 183496,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/sigma-10-18-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/c016_30_14_product_img01_1.png",
+  "http": 200,
+  "final_url": "https://www.sigma-global.com/lenses/c016_30_14_product_img01_1.png",
+  "content_type": "image/png",
+  "bytes": 146341,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/sigma-10-18-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/c017_16_14_product_img01_1.png",
+  "status": "skipped-exists"
+ },
+ {
+  "out": "img/lens/sigma-10-18-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/c018_56_14_product_img01_1.png",
+  "status": "skipped-exists"
+ },
+ {
+  "out": "img/lens/sigma-16-f14-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/c017_16_14_product_img01.png",
+  "http": 200,
+  "final_url": "https://www.sigma-global.com/lenses/c017_16_14_product_img01.png",
+  "content_type": "image/png",
+  "bytes": 157763,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/sigma-23-f14-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/c023_23_14_product_img01.png",
+  "http": 200,
+  "final_url": "https://www.sigma-global.com/lenses/c023_23_14_product_img01.png",
+  "content_type": "image/png",
+  "bytes": 161501,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/sigma-23-f14-x--img02.png",
+  "url": "https://www.sigma-global.com/lenses/c023_23_14_product_img02.png",
+  "http": 200,
+  "final_url": "https://www.sigma-global.com/lenses/c023_23_14_product_img02.png",
+  "content_type": "image/png",
+  "bytes": 98005,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/sigma-23-f14-x--img03.png",
+  "url": "https://www.sigma-global.com/lenses/c023_23_14_product_img03.png",
+  "http": 200,
+  "final_url": "https://www.sigma-global.com/lenses/c023_23_14_product_img03.png",
+  "content_type": "image/png",
+  "bytes": 85499,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/sigma-30-f14-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/c016_30_14_product_img01.png",
+  "http": 200,
+  "final_url": "https://www.sigma-global.com/lenses/c016_30_14_product_img01.png",
+  "content_type": "image/png",
+  "bytes": 146341,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/sigma-56-f14-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/c016_30_14_product_img01_1.png",
+  "http": 200,
+  "final_url": "https://www.sigma-global.com/lenses/c016_30_14_product_img01_1.png",
+  "content_type": "image/png",
+  "bytes": 146341,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/sigma-56-f14-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/c017_16_14_product_img01_1.png",
+  "status": "skipped-exists"
+ },
+ {
+  "out": "img/lens/sigma-56-f14-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/c018_56_14_product_img01.png",
+  "status": "skipped-exists"
+ },
+ {
+  "out": "img/lens/sigma-100-400-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/a019_14_24_28_product_img01.png",
+  "http": 200,
+  "final_url": "https://www.sigma-global.com/lenses/a019_14_24_28_product_img01.png",
+  "content_type": "image/png",
+  "bytes": 158678,
+  "status": "ok"
+ },
+ {
+  "out": "img/lens/sigma-100-400-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/a019_24_70_28_product_img01.png",
+  "status": "skipped-exists"
+ },
+ {
+  "out": "img/lens/sigma-100-400-x--img01.png",
+  "url": "https://www.sigma-global.com/lenses/c019_45_28_product_img01_1.png",
+  "status": "skipped-exists"
+ },
+ {
+  "out": "json/om/om-system-om-1-ii.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22om-1-mark-ii%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22om-1-mark-ii%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 2099,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/om-system-om-3.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22om-3%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22om-3%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 2370,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/om-system-om-5.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22om-5%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22om-5%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 2181,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/om-system-om-5-ii.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22om-5-mark-ii%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22om-5-mark-ii%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 834,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-12-40-ii.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-12-40mm-f2-8-pro-ii%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-12-40mm-f2-8-pro-ii%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 5247,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-12-100.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-12-100mm-f4-0-is-pro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-12-100mm-f4-0-is-pro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 2692,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-40-150-f28.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-40-150mm-f2-8-pro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-40-150mm-f2-8-pro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 3766,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-40-150-f4.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-40-150mm-f4-0-pro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-40-150mm-f4-0-pro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 3454,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-8-25.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-8-25mm-f4-pro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-8-25mm-f4-pro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 5111,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-9-18-ii.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-9-18mm-f4-0-5-6-ii%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-9-18mm-f4-0-5-6-ii%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 2351,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-100-400-ii.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-100-400mm-f5-0-6-3-is-ii%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-100-400mm-f5-0-6-3-is-ii%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 2082,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-14-42-ez.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-14-42mm-f3-5-5-6-ez%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-14-42mm-f3-5-5-6-ez%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 2541,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-20-f14.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-20mm-f1-4-pro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-20mm-f1-4-pro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 3522,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-45-f18.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-45mm-f1-8%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-45mm-f1-8%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 2754,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-75-f18.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-75mm-f1-8%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-75mm-f1-8%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 1894,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-60-macro.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-60mm-f2-8-macro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-ed-60mm-f2-8-macro%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 1761,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-17-f18.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-17mm-f1-8%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-17mm-f1-8%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 2003,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/mz-25-f18.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-25mm-f1-8%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22m-zuiko-25mm-f1-8%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 2028,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/olympus-e-p7.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22pen-e-p7%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22pen-e-p7%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 34,
+  "status": "ok"
+ },
+ {
+  "out": "json/om/olympus-e-m10-iv.json",
+  "url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22om-d-e-m10-mark-iv%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "http": 200,
+  "final_url": "https://explore.omsystem.com/graphql?query=%7Bproducts%28filter%3A%7Burl_key%3A%7Beq%3A%22om-d-e-m10-mark-iv%22%7D%7D%29%7Bitems%7Bname%20media_gallery%7Burl%20label%20position%7D%7D%7D%7D",
+  "content_type": "application/json",
+  "bytes": 692,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/fujifilm-x-t5--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt5",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260708054332id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt5",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 168016,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/fujifilm-x-t50--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260616230643id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 154715,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/fujifilm-x-h2--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251002204929id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2/",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 163240,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/fujifilm-x-h2s--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2s",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251115201713id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2s",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 173971,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/fujifilm-x-s20--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xs20",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251002201828id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xs20/",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 154153,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/fujifilm-x-m5--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xm5",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260708054314id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xm5",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 156315,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/fujifilm-x100vi--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100vi",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260701152241id_/https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100vi",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 171702,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/fujifilm-x-pro3--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro3",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251228094538id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro3",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 175721,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/fujifilm-x-e4--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe4",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260210050705id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe4",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 177657,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/om-system-om-1-ii--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om1ii",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260701221316id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om1ii",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 155319,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/om-system-om-3--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om3",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260701221316id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om3",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 138947,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/om-system-om-5--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om5",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260318153612id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om5",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 167797,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/om-system-om-5-ii--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om5ii",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260616064156id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om5ii",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 147846,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/olympus-e-m10-iv--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/slrs/olympus_em10iv",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260629074939id_/https://www.dpreview.com/products/olympus/slrs/olympus_em10iv",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 178319,
+  "status": "ok"
+ },
+ {
+  "out": "html/wb/olympus-e-p7--wbdpr.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/slrs/olympus_ep7",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251023050319id_/https://www.dpreview.com/products/olympus/slrs/olympus_ep7",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 117986,
+  "status": "ok"
+ },
+ {
+  "out": "json/commons/fujifilm-x-m5.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Fujifilm%20X-M5&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 200,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Fujifilm%20X-M5&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 20116,
+  "status": "ok"
+ },
+ {
+  "out": "json/commons/om-system-om-3.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=OM%20System%20OM-3&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 429,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=OM%20System%20OM-3&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "text/html; charset=utf-8",
   "status": "http-error"
  },
  {
-  "out": "html/cam/fujifilm-x-t50--dpr.html",
-  "url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50",
-  "content_type": "text/html; charset=UTF-8",
+  "out": "json/commons/om-system-om-5-ii.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=OM-5%20Mark%20II&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 429,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=OM-5%20Mark%20II&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "text/html; charset=utf-8",
   "status": "http-error"
  },
  {
-  "out": "html/cam/fujifilm-x-h2--dpr.html",
-  "url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2",
-  "content_type": "text/html; charset=UTF-8",
+  "out": "json/commons/olympus-e-m10-iv.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Olympus%20OM-D%20E-M10%20Mark%20IV&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 429,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Olympus%20OM-D%20E-M10%20Mark%20IV&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "text/html; charset=utf-8",
   "status": "http-error"
  },
  {
-  "out": "html/cam/fujifilm-x-h2s--dpr.html",
-  "url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2s",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2s",
-  "content_type": "text/html; charset=UTF-8",
+  "out": "json/commons/olympus-e-p7.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Olympus%20PEN%20E-P7&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 429,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Olympus%20PEN%20E-P7&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "text/html; charset=utf-8",
   "status": "http-error"
  },
  {
-  "out": "html/cam/fujifilm-x-s20--dpr.html",
-  "url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xs20",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xs20",
-  "content_type": "text/html; charset=UTF-8",
+  "out": "json/commons/mz-17-f18.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=M.Zuiko%2017mm%20f/1.8&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 429,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=M.Zuiko%2017mm%20f/1.8&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "text/html; charset=utf-8",
   "status": "http-error"
  },
  {
-  "out": "html/cam/fujifilm-x-m5--dpr.html",
-  "url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xm5",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xm5",
-  "content_type": "text/html; charset=UTF-8",
+  "out": "json/commons/mz-25-f18.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=M.Zuiko%2025mm%20f/1.8&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 429,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=M.Zuiko%2025mm%20f/1.8&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "text/html; charset=utf-8",
   "status": "http-error"
  },
  {
-  "out": "html/cam/fujifilm-x100vi--dpr.html",
-  "url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100vi",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100vi",
-  "content_type": "text/html; charset=UTF-8",
+  "out": "json/commons/fujifilm-x-t50.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Fujifilm%20X-T50&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 429,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Fujifilm%20X-T50&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "text/html; charset=utf-8",
   "status": "http-error"
  },
  {
-  "out": "html/cam/fujifilm-x-pro3--dpr.html",
-  "url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro3",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro3",
-  "content_type": "text/html; charset=UTF-8",
+  "out": "json/commons/om-system-om-5.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Olympus%20OM-5&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 429,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Olympus%20OM-5&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "text/html; charset=utf-8",
   "status": "http-error"
  },
  {
-  "out": "html/cam/fujifilm-x-e4--dpr.html",
-  "url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe4",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xe4",
-  "content_type": "text/html; charset=UTF-8",
-  "status": "http-error"
- },
- {
-  "out": "html/cam/om-system-om-1-ii--dpr.html",
-  "url": "https://www.dpreview.com/products/olympus/slrs/omsystem_om1ii",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/olympus/slrs/omsystem_om1ii",
-  "content_type": "text/html; charset=UTF-8",
-  "status": "http-error"
- },
- {
-  "out": "html/cam/om-system-om-3--dpr.html",
-  "url": "https://www.dpreview.com/products/olympus/slrs/omsystem_om3",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/olympus/slrs/omsystem_om3",
-  "content_type": "text/html; charset=UTF-8",
-  "status": "http-error"
- },
- {
-  "out": "html/cam/om-system-om-5--dpr.html",
-  "url": "https://www.dpreview.com/products/olympus/slrs/omsystem_om5",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/olympus/slrs/omsystem_om5",
-  "content_type": "text/html; charset=UTF-8",
-  "status": "http-error"
- },
- {
-  "out": "html/cam/om-system-om-5-ii--dpr.html",
-  "url": "https://www.dpreview.com/products/olympus/slrs/omsystem_om5ii",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/olympus/slrs/omsystem_om5ii",
-  "content_type": "text/html; charset=UTF-8",
-  "status": "http-error"
- },
- {
-  "out": "html/cam/olympus-e-m10-iv--dpr.html",
-  "url": "https://www.dpreview.com/products/olympus/slrs/olympus_em10iv",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/olympus/slrs/olympus_em10iv",
-  "content_type": "text/html; charset=UTF-8",
-  "status": "http-error"
- },
- {
-  "out": "html/cam/olympus-e-p7--dpr.html",
-  "url": "https://www.dpreview.com/products/olympus/slrs/olympus_ep7",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/olympus/slrs/olympus_ep7",
-  "content_type": "text/html; charset=UTF-8",
-  "status": "http-error"
- },
- {
-  "out": "html/lens/xf-16-55-ii--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf16-55mmf28-r-lm-wr-ii/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf16-55mmf28-r-lm-wr-ii/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 200715,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-18-55--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf18-55mmf28-4-r-lm-ois/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf18-55mmf28-4-r-lm-ois/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 183456,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-16-80--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf16-80mmf4-r-ois-wr/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf16-80mmf4-r-ois-wr/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 197821,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-70-300--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf70-300mmf4-56-r-lm-ois-wr/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf70-300mmf4-56-r-lm-ois-wr/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 201467,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-50-140--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf50-140mmf28-r-lm-ois-wr/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf50-140mmf28-r-lm-ois-wr/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 216231,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-10-24--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf10-24mmf4-r-ois-wr/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf10-24mmf4-r-ois-wr/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 201008,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-150-600--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf150-600mmf56-8-r-lm-ois-wr/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf150-600mmf56-8-r-lm-ois-wr/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 197784,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-18-f14--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf18mmf14-r-lm-wr/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf18mmf14-r-lm-wr/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 203577,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-23-f14--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf23mmf14-r-lm-wr/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf23mmf14-r-lm-wr/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 199519,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-33-f14--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf33mmf14-r-lm-wr/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf33mmf14-r-lm-wr/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 201612,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-35-f14--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf35mmf14-r/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf35mmf14-r/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 202619,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-56-f12--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf56mmf12-r-wr/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf56mmf12-r-wr/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 196174,
-  "status": "ok"
- },
- {
-  "out": "html/lens/xf-27-f28--fuji.html",
-  "url": "https://www.fujifilm-x.com/global/products/lenses/xf27mmf28-r-wr/",
-  "http": 200,
-  "final_url": "https://www.fujifilm-x.com/global/products/lenses/xf27mmf28-r-wr/",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 199417,
-  "status": "ok"
- },
- {
-  "out": "html/lens/sigma-18-50-x--sigma.html",
-  "url": "https://www.sigma-global.com/en/lenses/c021_18_50_28/",
-  "http": 200,
-  "final_url": "https://www.sigma-global.com/en/lenses/c021_18_50_28/",
-  "content_type": "text/html",
-  "bytes": 72435,
-  "status": "ok"
- },
- {
-  "out": "html/lens/sigma-10-18-x--sigma.html",
-  "url": "https://www.sigma-global.com/en/lenses/c023_10_18_28/",
-  "http": 200,
-  "final_url": "https://www.sigma-global.com/en/lenses/c023_10_18_28/",
-  "content_type": "text/html",
-  "bytes": 54982,
-  "status": "ok"
- },
- {
-  "out": "html/lens/sigma-16-f14-x--sigma.html",
-  "url": "https://www.sigma-global.com/en/lenses/c017_16_14/",
-  "http": 200,
-  "final_url": "https://www.sigma-global.com/en/lenses/c017_16_14/",
-  "content_type": "text/html",
-  "bytes": 47783,
-  "status": "ok"
- },
- {
-  "out": "html/lens/sigma-23-f14-x--sigma.html",
-  "url": "https://www.sigma-global.com/en/lenses/c023_23_14/",
-  "http": 200,
-  "final_url": "https://www.sigma-global.com/en/lenses/c023_23_14/",
-  "content_type": "text/html",
-  "bytes": 56759,
-  "status": "ok"
- },
- {
-  "out": "html/lens/sigma-30-f14-x--sigma.html",
-  "url": "https://www.sigma-global.com/en/lenses/c016_30_14/",
-  "http": 200,
-  "final_url": "https://www.sigma-global.com/en/lenses/c016_30_14/",
-  "content_type": "text/html",
-  "bytes": 45261,
-  "status": "ok"
- },
- {
-  "out": "html/lens/sigma-56-f14-x--sigma.html",
-  "url": "https://www.sigma-global.com/en/lenses/c018_56_14/",
-  "http": 200,
-  "final_url": "https://www.sigma-global.com/en/lenses/c018_56_14/",
-  "content_type": "text/html",
-  "bytes": 44204,
-  "status": "ok"
- },
- {
-  "out": "html/lens/sigma-100-400-x--sigma.html",
-  "url": "https://www.sigma-global.com/en/lenses/c020_100_400_5_63/",
-  "http": 200,
-  "final_url": "https://www.sigma-global.com/en/lenses/c020_100_400_5_63/",
-  "content_type": "text/html",
-  "bytes": 80831,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-12-40-ii--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-ed-12-40mm-f2-8-pro-ii",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-ed-12-40mm-f2-8-pro-ii",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 822131,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-12-100--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-ed-12-100mm-f4-0-is-pro",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-ed-12-100mm-f4-0-is-pro",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 864028,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-40-150-f28--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-ed-40-150mm-f2-8-pro",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-ed-40-150mm-f2-8-pro",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 825736,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-40-150-f4--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-ed-40-150mm-f4-0-pro",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-ed-40-150mm-f4-0-pro",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 876374,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-8-25--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-ed-8-25mm-f4-pro",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-ed-8-25mm-f4-pro",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 879913,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-9-18-ii--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-ed-9-18mm-f4-0-5-6-ii",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-ed-9-18mm-f4-0-5-6-ii",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 822625,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-100-400-ii--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-ed-100-400mm-f5-0-6-3-is-ii",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-ed-100-400mm-f5-0-6-3-is-ii",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 876611,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-14-42-ez--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-ed-14-42mm-f3-5-5-6-ez",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-ed-14-42mm-f3-5-5-6-ez",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 818637,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-20-f14--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-ed-20mm-f1-4-pro",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-ed-20mm-f1-4-pro",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 851601,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-45-f18--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-45mm-f1-8",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-45mm-f1-8",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 814930,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-75-f18--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-ed-75mm-f1-8",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-ed-75mm-f1-8",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 818166,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-60-macro--om.html",
-  "url": "https://explore.omsystem.com/us/en/m-zuiko-ed-60mm-f2-8-macro",
-  "http": 200,
-  "final_url": "https://explore.omsystem.com/us/en/m-zuiko-ed-60mm-f2-8-macro",
-  "content_type": "text/html; charset=UTF-8",
-  "bytes": 819853,
-  "status": "ok"
- },
- {
-  "out": "html/lens/mz-17-f18--oly.html",
-  "url": "https://asia.omsystem.com/product/dslr/mlens/17_18/",
-  "status": "exception",
-  "error": "ConnectTimeout: HTTPSConnectionPool(host='asia.omsystem.com', port=443): Max retries exceeded with url: /product/dslr/mlens/17_18/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='asia.omsystem.com', port=443) at 0x7f50e7eb5d30>, 'Connection to asia.omsystem.com timed out. (connect timeout=45)'))"
- },
- {
-  "out": "html/lens/mz-25-f18--oly.html",
-  "url": "https://asia.omsystem.com/product/dslr/mlens/25_18/",
-  "status": "exception",
-  "error": "ConnectTimeout: HTTPSConnectionPool(host='asia.omsystem.com', port=443): Max retries exceeded with url: /product/dslr/mlens/25_18/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='asia.omsystem.com', port=443) at 0x7f50e7eb4470>, 'Connection to asia.omsystem.com timed out. (connect timeout=45)'))"
- },
- {
-  "out": "html/lens/mz-9-18-ii--dpr.html",
-  "url": "https://www.dpreview.com/products/olympus/lenses/omsystem_9-18_4-5p6_ii",
-  "http": 403,
-  "final_url": "https://www.dpreview.com/products/olympus/lenses/omsystem_9-18_4-5p6_ii",
-  "content_type": "text/html; charset=UTF-8",
+  "out": "json/commons/fujifilm-x100vi.json",
+  "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Fujifilm%20X100VI&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "http": 429,
+  "final_url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=40&gsrsearch=Fujifilm%20X100VI&prop=imageinfo&iiprop=url%7Csize%7Cmime",
+  "content_type": "text/html; charset=utf-8",
   "status": "http-error"
  }
 ]
