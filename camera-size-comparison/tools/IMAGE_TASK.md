@@ -72,3 +72,36 @@ width includes the grip).
    depth corrections — do not chase perfection, chase "obviously right".
 3. Commit images + data.js calibration, push to the project branch —
    GitHub Pages redeploys automatically.
+
+## Still missing (as of the first collection pass)
+
+All Fujifilm XF lenses and these body views:
+
+- `images/fujifilm-x-t50-rear.png`
+- `images/fujifilm-x-h2-top.png`
+- `images/fujifilm-x-h2s-top.png`
+- `images/fujifilm-x-h2s-rear.png`
+- `images/fujifilm-x-s20-top.png`
+- `images/fujifilm-x-s20-front.png`
+- `images/fujifilm-x-s20-rear.png`
+- `images/fujifilm-x-pro3-top.png`
+- `images/om-system-om-1-ii-rear.png`
+- `images/om-system-om-5-rear.png`
+- `images/xf-16-55-ii-top.png`
+- `images/xf-18-55-top.png`
+- `images/xf-16-80-top.png`
+- `images/xf-70-300-top.png`
+- `images/xf-50-140-top.png`
+- `images/xf-10-24-top.png`
+- `images/xf-150-600-top.png`
+- `images/xf-18-f14-top.png`
+- `images/xf-23-f14-top.png`
+- `images/xf-33-f14-top.png`
+- `images/xf-35-f14-top.png`
+- `images/xf-56-f12-top.png`
+- `images/xf-27-f28-top.png`
+- `images/mz-12-100-top.png`
+- `images/mz-40-150-f28-top.png`
+- `images/sigma-16-f14-mft-top.png`
+- `images/sigma-30-f14-mft-top.png`
+- `images/sigma-56-f14-mft-top.png`
