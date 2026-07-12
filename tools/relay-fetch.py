@@ -27,7 +27,7 @@ def main():
             report.append({'out': out, 'url': url, 'status': 'skipped-exists'})
             continue
         host = url.split('/')[2]
-        gap = 6.0 if 'wikimedia' in host or 'wikipedia' in host else 0.6
+        gap = 6.0 if 'wikimedia' in host or 'wikipedia' in host or 'archive.org' in host else 0.6
         wait = last_host_hit.get(host, 0) + gap - time.time()
         if wait > 0:
             time.sleep(wait)
