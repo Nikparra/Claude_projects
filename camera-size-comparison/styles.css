@@ -19,6 +19,23 @@
     --text-dim: #5b6874;
   }
 }
+/* explicit theme override (e.g. a host page's theme toggle) beats the OS preference */
+:root[data-theme="dark"] {
+  --bg: #101318;
+  --bg-raised: #181d24;
+  --bg-inset: #0b0e12;
+  --border: #2a323d;
+  --text: #e8ecf1;
+  --text-dim: #9aa5b1;
+}
+:root[data-theme="light"] {
+  --bg: #f4f6f8;
+  --bg-raised: #ffffff;
+  --bg-inset: #e9edf1;
+  --border: #d4dae1;
+  --text: #1c2530;
+  --text-dim: #5b6874;
+}
 
 * { box-sizing: border-box; }
 body {

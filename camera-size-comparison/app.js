@@ -525,6 +525,8 @@ function init() {
     setTimeout(() => (b.textContent = 'Copy link'), 1400);
   });
   window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', update);
+  // re-render SVGs (they bake in theme colors) when a host theme toggle flips data-theme
+  new MutationObserver(update).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
   update();
 }
 
