@@ -1,164 +1,262 @@
 [
  {
-  "out": "img/lens/xf-16-55-ii--dpr.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_16-55_2p8_r_lm_wr_ii/355e2e5f6c2b41efbaa4cc29cc75d70f.png",
+  "out": "html/wb2/fujifilm-x-t50--wb2024.html",
+  "url": "https://web.archive.org/web/2024id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50",
   "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_16-55_2p8_r_lm_wr_ii/355e2e5f6c2b41efbaa4cc29cc75d70f.png",
-  "content_type": "image/png",
-  "bytes": 1534096,
-  "status": "ok"
- },
- {
-  "out": "img/lens/xf-16-80--dpr.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_16-80_4_r_ois_wr/7ab9caf2192c42fab5a783583321a095.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_16-80_4_r_ois_wr/7ab9caf2192c42fab5a783583321a095.png",
-  "content_type": "image/png",
-  "bytes": 1134608,
-  "status": "ok"
- },
- {
-  "out": "img/lens/xf-70-300--dpr.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_70-300_4p0-5p6_r_lm_ois_wr/5a99b6cf609f4897885e0731b24f54ac.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_70-300_4p0-5p6_r_lm_ois_wr/5a99b6cf609f4897885e0731b24f54ac.png",
-  "content_type": "image/png",
-  "bytes": 773202,
-  "status": "ok"
- },
- {
-  "out": "img/lens/xf-10-24--dpr.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_10-24_r_ois_wr/4ac6be02041c4317a8f20b47a35f735e.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_10-24_r_ois_wr/4ac6be02041c4317a8f20b47a35f735e.png",
-  "content_type": "image/png",
-  "bytes": 1181557,
-  "status": "ok"
- },
- {
-  "out": "img/lens/xf-150-600--dpr.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_150-600_5p6_8_r_lm_ois_wr/7254c1ef531242179f2191701acda31f.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_150-600_5p6_8_r_lm_ois_wr/7254c1ef531242179f2191701acda31f.png",
-  "content_type": "image/png",
-  "bytes": 418040,
-  "status": "ok"
- },
- {
-  "out": "img/lens/xf-18-f14--dpr.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_18_1p4_r_lm_wr/ff49142bcdbb4dea83ae4677f17d1dca.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_18_1p4_r_lm_wr/ff49142bcdbb4dea83ae4677f17d1dca.png",
-  "content_type": "image/png",
-  "bytes": 1176650,
-  "status": "ok"
- },
- {
-  "out": "img/lens/xf-23-f14--dpr.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_23_1p4_r_lm_wr/8779b84eeadd4b29be8e6ab2f9856f4e.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_23_1p4_r_lm_wr/8779b84eeadd4b29be8e6ab2f9856f4e.png",
-  "content_type": "image/png",
-  "bytes": 1032087,
-  "status": "ok"
- },
- {
-  "out": "img/lens/xf-33-f14--dpr.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_33_1p4_r_lm_wr/7ec9d26a751746e4827a334c5f83412b.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_33_1p4_r_lm_wr/7ec9d26a751746e4827a334c5f83412b.png",
-  "content_type": "image/png",
-  "bytes": 1082237,
-  "status": "ok"
- },
- {
-  "out": "img/lens/xf-56-f12--dpr.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_56_1p2_r_wr/a1f70324723e4374b22a05a9716ec5f8.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_56_1p2_r_wr/a1f70324723e4374b22a05a9716ec5f8.png",
-  "content_type": "image/png",
-  "bytes": 1478245,
-  "status": "ok"
- },
- {
-  "out": "img/lens/xf-27-f28--dpr.png",
-  "url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_27mm_r_wr/8a6edc7396bc4a0396a0388ac176be80.png",
-  "http": 200,
-  "final_url": "https://1.img-dpreview.com/files/p/TS1200x1200~products/fujifilm_xf_27mm_r_wr/8a6edc7396bc4a0396a0388ac176be80.png",
-  "content_type": "image/png",
-  "bytes": 1181933,
-  "status": "ok"
- },
- {
-  "out": "html/dprlens/fujifilm-p2.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses?page=2",
-  "http": 200,
-  "final_url": "https://web.archive.org/web/20260706032549id_/https://www.dpreview.com/products/fujifilm/lenses?page=2",
+  "final_url": "https://web.archive.org/web/20250305192001id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xt50",
   "content_type": "text/html; charset=utf-8",
-  "bytes": 118634,
+  "bytes": 150614,
   "status": "ok"
  },
  {
-  "out": "html/dprlens/fujifilm-p3.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses?page=3",
+  "out": "html/wb2/fujifilm-x-s20--wb2023.html",
+  "url": "https://web.archive.org/web/2023id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xs20",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20220714085331id_/https://www.dpreview.com/products/fujifilm/lenses?page=3",
+  "final_url": "https://web.archive.org/web/20231226152643id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xs20",
   "content_type": "text/html; charset=utf-8",
-  "bytes": 51791,
+  "bytes": 112765,
   "status": "ok"
  },
  {
-  "out": "html/dprlens/olympus-p1.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses",
+  "out": "html/wb2/fujifilm-x-h2--wb2023.html",
+  "url": "https://web.archive.org/web/2023id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20251003000536id_/https://www.dpreview.com/products/olympus/lenses",
+  "final_url": "https://web.archive.org/web/20240123155307id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2",
   "content_type": "text/html; charset=utf-8",
-  "bytes": 149197,
+  "bytes": 113124,
   "status": "ok"
  },
  {
-  "out": "html/dprlens/olympus-p2.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses?page=2",
+  "out": "html/wb2/fujifilm-x-h2s--wb2022.html",
+  "url": "https://web.archive.org/web/2022id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2s",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20260705091035id_/https://www.dpreview.com/products/olympus/lenses?page=2",
+  "final_url": "https://web.archive.org/web/20230112155815id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xh2s",
   "content_type": "text/html; charset=utf-8",
-  "bytes": 119743,
+  "bytes": 134261,
   "status": "ok"
  },
  {
-  "out": "html/dprlens/olympus-p3.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses?page=3",
+  "out": "html/wb2/fujifilm-x-pro3--wb2020.html",
+  "url": "https://web.archive.org/web/2020id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro3",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20230207205735id_/https://www.dpreview.com/products/olympus/lenses?page=3",
+  "final_url": "https://web.archive.org/web/20201210111614id_/https://www.dpreview.com/products/fujifilm/slrs/fujifilm_xpro3",
   "content_type": "text/html; charset=utf-8",
-  "bytes": 65353,
+  "bytes": 128493,
   "status": "ok"
  },
  {
-  "out": "html/dprlens/sigma-p1.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses",
+  "out": "html/wb2/om-system-om-1--wb2023.html",
+  "url": "https://web.archive.org/web/2023id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om1",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20241201023003id_/https://www.dpreview.com/products/sigma/lenses/",
+  "final_url": "https://web.archive.org/web/20231210105511id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om1",
   "content_type": "text/html; charset=utf-8",
-  "bytes": 142920,
+  "bytes": 165484,
   "status": "ok"
  },
  {
-  "out": "html/dprlens/sigma-p2.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses?page=2",
+  "out": "html/wb2/om-system-om-5--wb2023.html",
+  "url": "https://web.archive.org/web/2023id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om5",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20251010111134id_/https://www.dpreview.com/products/sigma/lenses?page=2",
+  "final_url": "https://web.archive.org/web/20231211181059id_/https://www.dpreview.com/products/olympus/slrs/omsystem_om5",
   "content_type": "text/html; charset=utf-8",
-  "bytes": 148131,
+  "bytes": 120989,
   "status": "ok"
  },
  {
-  "out": "html/dprlens/sigma-p3.html",
-  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses?page=3",
+  "out": "html/dprlp/xf-18-55.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_18-55",
   "http": 200,
-  "final_url": "https://web.archive.org/web/20230114113206id_/https://www.dpreview.com/products/sigma/lenses?page=3",
+  "final_url": "https://web.archive.org/web/20251002235608id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_18-55",
   "content_type": "text/html; charset=utf-8",
-  "bytes": 86490,
+  "bytes": 132171,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/xf-35-f14.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_35mm",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251002235721id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_35mm",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 117246,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/xf-50-140.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_50-140_2p8_ois_wr",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251001150658id_/https://www.dpreview.com/products/fujifilm/lenses/fujifilm_xf_50-140_2p8_ois_wr",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 115249,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-12-100.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/olympus_12-100_4p0_is_pro",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260511170451id_/https://www.dpreview.com/products/olympus/lenses/olympus_12-100_4p0_is_pro",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 174751,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-12-40-ii.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/omsystem_12-40_2p8_pro",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251003051829id_/https://www.dpreview.com/products/olympus/lenses/omsystem_12-40_2p8_pro/",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 122775,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-40-150-f28.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_40-150_2p8_pro",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260626181802id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_40-150_2p8_pro",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 140224,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-100-400-ii.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/omsystem_100-400_5p0-6p3_is_ii",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251003042437id_/https://www.dpreview.com/products/olympus/lenses/omsystem_100-400_5p0-6p3_is_ii/",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 108061,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-9-18-ii.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/omsystem_9-18_4-5p6_ii",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251003012128id_/https://www.dpreview.com/products/olympus/lenses/omsystem_9-18_4-5p6_ii/",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 106329,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-14-42-ez.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_14-42_3p5-5p6_ez",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20250803085131id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_14-42_3p5-5p6_ez",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 110313,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-17-f18.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_17_1p8",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260616064142id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_17_1p8",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 121899,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-20-f14.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/omsystem_20_1p4_pro",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251114192105id_/https://www.dpreview.com/products/olympus/lenses/omsystem_20_1p4_pro",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 151257,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-25-f18.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_25_1p8",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251108101731id_/https://www.dpreview.com/products/Olympus/lenses/olympus_m_25_1p8",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 113162,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-45-f18.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_45_1p8",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251113162228id_/https://www.dpreview.com/products/Olympus/lenses/olympus_m_45_1p8",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 123764,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-60-macro.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_60_2p8",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260701134849id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_60_2p8",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 110394,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-75-f18.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_75_1p8",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251003052743id_/https://www.dpreview.com/products/olympus/lenses/olympus_m_75_1p8",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 126828,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/mz-8-25.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses/olympus_8-25_4p0_pro",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20251113224614id_/https://www.dpreview.com/products/Olympus/lenses/olympus_8-25_4p0_pro",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 154067,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/sigma-18-50-x.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses/sigma_18-50_2p8_dc_dn",
+  "http": 403,
+  "final_url": "https://web.archive.org/web/20250225165054id_/https://www.dpreview.com/products/sigma/lenses/sigma_18-50_2p8_dc_dn",
+  "content_type": "text/html; charset=UTF-8",
+  "status": "http-error"
+ },
+ {
+  "out": "html/dprlp/sigma-10-18-x.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses/sigma_10-18_2p8_dc_dn",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260527200418id_/https://www.dpreview.com/products/sigma/lenses/sigma_10-18_2p8_dc_dn",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 123457,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/sigma-16-f14-x.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses/sigma_16_1p4_dc_dn_e-mount",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20230405225244id_/https://www.dpreview.com/products/sigma/lenses/sigma_16_1p4_dc_dn_e-mount",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 80706,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/sigma-23-f14-x.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses/sigma_23_1p4_dc_dn_c",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260620000737id_/https://www.dpreview.com/products/sigma/lenses/sigma_23_1p4_dc_dn_c",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 124373,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/sigma-30-f14-x.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses/sigma_30_1p4_dc_dn_c",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20260530233547id_/https://www.dpreview.com/products/sigma/lenses/sigma_30_1p4_dc_dn_c",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 161826,
+  "status": "ok"
+ },
+ {
+  "out": "html/dprlp/sigma-56-f14-x.html",
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses/sigma_56_1p4_dc_dn_c",
+  "http": 200,
+  "final_url": "https://web.archive.org/web/20240827230616id_/https://www.dpreview.com/products/sigma/lenses/sigma_56_1p4_dc_dn_c",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 112922,
   "status": "ok"
  }
 ]
