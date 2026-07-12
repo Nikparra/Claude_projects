@@ -144,9 +144,12 @@ function drawTop(slot, cam, lens, color) {
       fill, stroke: line, 'stroke-width': 1.4, ...extra,
     });
 
-  // draws the mounted lens (photo if available, else schematic); returns its front z
-  const drawLens = () => {
+  // draws the mounted lens (photo if available, else schematic); returns its front z.
+  // Over a photo body a schematic lens renders as a dashed dimensional outline
+  // so it reads as "size placeholder", not as a fake product.
+  const drawLens = (overPhoto) => {
     if (!lens) return g.core;
+    const ghost = overPhoto ? { fill: 'none', 'stroke-dasharray': '5 4' } : null;
     const lensPh = lens.builtIn ? null : getPhoto(slot.lensId, 'top', lens.photo);
     if (lensPh) {
       const dMM = lensPh.spec.diameterMM || lens.diameterMM;
@@ -162,16 +165,18 @@ function drawTop(slot, cam, lens, color) {
     }
     const lx = g.mountX - lens.diameterMM / 2;
     if (!lens.builtIn) {
-      grp.appendChild(rect(g.mountX - g.mountExt / 2, g.core, g.core + 2.5, g.mountExt, 1.5, body));
+      grp.appendChild(rect(g.mountX - g.mountExt / 2, g.core, g.core + 2.5, g.mountExt, 1.5, ghost ? 'none' : body, ghost || {}));
     }
-    grp.appendChild(rect(lx, g.core, g.core + lens.lengthMM, lens.diameterMM, 3, body));
-    // ring bands
-    for (const f of [0.30, 0.58]) {
-      const z0 = g.core + lens.lengthMM * f;
-      grp.appendChild(rect(lx + 1, z0, Math.min(z0 + lens.lengthMM * 0.12, g.core + lens.lengthMM - 2), lens.diameterMM - 2, 1, line, { 'fill-opacity': 0.15, 'stroke-width': 0 }));
+    grp.appendChild(rect(lx, g.core, g.core + lens.lengthMM, lens.diameterMM, 3, ghost ? 'none' : body, ghost || {}));
+    if (!ghost) {
+      // ring bands
+      for (const f of [0.30, 0.58]) {
+        const z0 = g.core + lens.lengthMM * f;
+        grp.appendChild(rect(lx + 1, z0, Math.min(z0 + lens.lengthMM * 0.12, g.core + lens.lengthMM - 2), lens.diameterMM - 2, 1, line, { 'fill-opacity': 0.15, 'stroke-width': 0 }));
+      }
+      // front bevel
+      grp.appendChild(rect(lx + 2, g.core + lens.lengthMM - 2.5, g.core + lens.lengthMM - 0.5, lens.diameterMM - 4, 1, line, { 'fill-opacity': 0.5, 'stroke-width': 0 }));
     }
-    // front bevel
-    grp.appendChild(rect(lx + 2, g.core + lens.lengthMM - 2.5, g.core + lens.lengthMM - 0.5, lens.diameterMM - 4, 1, line, { 'fill-opacity': 0.5, 'stroke-width': 0 }));
     return g.core + lens.lengthMM;
   };
 
@@ -183,7 +188,7 @@ function drawTop(slot, cam, lens, color) {
     const backFrac = camPh.spec.backFrac ?? Math.min(g.eyecup / hMM, 0.3);
     const zBottom = -backFrac * hMM;
     grp.appendChild(photoEl(camPh, (cam.widthMM - wMM) / 2 * s, zy(zBottom + hMM), wMM * s, hMM * s));
-    const frontZ = camPh.spec.includesLens ? g.core : drawLens();
+    const frontZ = camPh.spec.includesLens ? g.core : drawLens(true);
     const topZ = Math.max(zBottom + hMM, frontZ);
     return { group: grp, widthMM: Math.max(cam.widthMM, wMM),
       above: topZ - az, below: Math.max(az - zBottom, az + g.eyecup), W };
@@ -572,7 +577,11 @@ function readHash() {
     const p = new URLSearchParams(location.hash.slice(1));
     const slots = (p.get('c') || '').split(',').filter(Boolean).map(part => {
       const [camId, lensId, nudge] = part.split('~');
-      return camById(camId) ? { camId, lensId: lensId && lensById(lensId) ? lensId : null, nudge: parseFloat(nudge) || 0 } : null;
+      const cam = camById(camId);
+      if (!cam) return null;
+      const lens = lensId ? lensById(lensId) : null;
+      const validLens = lens && cam.mount !== 'fixed' && lens.mount === cam.mount ? lensId : null;
+      return { camId, lensId: validLens, nudge: parseFloat(nudge) || 0 };
     }).filter(Boolean);
     if (!slots.length) return false;
     state.slots = slots;
