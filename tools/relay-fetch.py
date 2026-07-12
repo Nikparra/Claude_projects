@@ -27,12 +27,16 @@ def main():
             report.append({'out': out, 'url': url, 'status': 'skipped-exists'})
             continue
         host = url.split('/')[2]
-        wait = last_host_hit.get(host, 0) + 0.6 - time.time()
+        gap = 3.0 if 'wikimedia' in host or 'wikipedia' in host else 0.6
+        wait = last_host_hit.get(host, 0) + gap - time.time()
         if wait > 0:
             time.sleep(wait)
         rec = {'out': out, 'url': url}
         try:
-            r = sess.get(url, timeout=45, allow_redirects=True)
+            hdrs = {}
+            if 'wikimedia' in host:  # WMF API policy wants a descriptive UA
+                hdrs['User-Agent'] = 'camera-size-comparison-asset-fetch/1.0 (github.com/Nikparra/Claude_projects)'
+            r = sess.get(url, timeout=45, allow_redirects=True, headers=hdrs)
             last_host_hit[host] = time.time()
             rec['http'] = r.status_code
             rec['final_url'] = r.url
