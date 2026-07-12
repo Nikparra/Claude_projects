@@ -2,33 +2,37 @@
  {
   "out": "img/lens/mz-17-f18--wm.jpg",
   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_M_Zuiko_Digital_ED_17mm_F1.8.jpg",
-  "http": 429,
-  "final_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Olympus_M_Zuiko_Digital_ED_17mm_F1.8.jpg",
-  "content_type": "text/html; charset=utf-8",
-  "status": "http-error"
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Olympus_M_Zuiko_Digital_ED_17mm_F1.8.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 1554691,
+  "status": "ok"
  },
  {
   "out": "img/lens/mz-45-f18--wm.jpg",
   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_M_Zuiko_Digital_ED_45mm_F1.8.jpg",
-  "http": 429,
-  "final_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_M_Zuiko_Digital_ED_45mm_F1.8.jpg",
-  "content_type": "text/html; charset=utf-8",
-  "status": "http-error"
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Olympus_M_Zuiko_Digital_ED_45mm_F1.8.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 5417067,
+  "status": "ok"
  },
  {
   "out": "img/lens/mz-60-macro--wm.jpg",
   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_M.Zuiko_Digital_ED_60mm_f-2.8_Macro_PSD_front.jpg",
-  "http": 429,
-  "final_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_M.Zuiko_Digital_ED_60mm_f-2.8_Macro_PSD_front.jpg",
-  "content_type": "text/html; charset=utf-8",
-  "status": "http-error"
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Olympus_M.Zuiko_Digital_ED_60mm_f-2.8_Macro_PSD_front.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 2780570,
+  "status": "ok"
  },
  {
   "out": "img/lens/xf-35-f14--wm.jpg",
   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujinon_XF_35mm_f1.4_R_unmounted.jpg",
-  "http": 429,
-  "final_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujinon_XF_35mm_f1.4_R_unmounted.jpg",
-  "content_type": "text/html; charset=utf-8",
-  "status": "http-error"
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Fujinon_XF_35mm_f1.4_R_unmounted.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 400141,
+  "status": "ok"
  }
 ]
