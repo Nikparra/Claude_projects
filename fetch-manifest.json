@@ -1,274 +1,38 @@
 [
  {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025a.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-t50--wm-a.jpg"
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses",
+  "out": "html/dprlens/fujifilm-p1.html"
  },
  {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025b.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-t50--wm-b.jpg"
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses?page=2",
+  "out": "html/dprlens/fujifilm-p2.html"
  },
  {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025c.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-t50--wm-c.jpg"
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/fujifilm/lenses?page=3",
+  "out": "html/dprlens/fujifilm-p3.html"
  },
  {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025d.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-t50--wm-d.jpg"
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses",
+  "out": "html/dprlens/olympus-p1.html"
  },
  {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025e.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-t50--wm-e.jpg"
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses?page=2",
+  "out": "html/dprlens/olympus-p2.html"
  },
  {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025f.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-t50--wm-f.jpg"
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/olympus/lenses?page=3",
+  "out": "html/dprlens/olympus-p3.html"
  },
  {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025g.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-t50--wm-g.jpg"
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses",
+  "out": "html/dprlens/sigma-p1.html"
  },
  {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_22_nov_2022a.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2--wm-a.jpg"
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses?page=2",
+  "out": "html/dprlens/sigma-p2.html"
  },
  {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_22_nov_2022b.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2--wm-b.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_4_nov_2022a.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2--wm-a.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_4_nov_2022b.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2--wm-b.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_4_nov_2022c.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2--wm-c.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_4_nov_2022d.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2--wm-d.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022a.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2s--wm-a.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022b.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2s--wm-b.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022c.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2s--wm-c.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022d.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2s--wm-d.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022e.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2s--wm-e.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022f.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2s--wm-f.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022g.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2s--wm-g.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022h.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2s--wm-h.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022i.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-h2s--wm-i.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023a.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-s20--wm-a.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023b.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-s20--wm-b.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023c.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-s20--wm-c.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023d.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-s20--wm-d.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023e.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-s20--wm-e.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023f.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-s20--wm-f.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023g.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-s20--wm-g.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019a.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-pro3--wm-a.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019b.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-pro3--wm-b.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019c.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-pro3--wm-c.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019d.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-pro3--wm-d.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019e.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-pro3--wm-e.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019f.jpg?width=1280",
-  "out": "img/wm/fujifilm-x-pro3--wm-f.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024a.jpg?width=1280",
-  "out": "img/wm/om-system-om-1-ii--wm-a.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024b.jpg?width=1280",
-  "out": "img/wm/om-system-om-1-ii--wm-b.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024c.jpg?width=1280",
-  "out": "img/wm/om-system-om-1-ii--wm-c.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024e.jpg?width=1280",
-  "out": "img/wm/om-system-om-1-ii--wm-e.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024f.jpg?width=1280",
-  "out": "img/wm/om-system-om-1-ii--wm-f.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024g.jpg?width=1280",
-  "out": "img/wm/om-system-om-1-ii--wm-g.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025a.jpg?width=1280",
-  "out": "img/wm/om-system-om-3--wm-a.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025b.jpg?width=1280",
-  "out": "img/wm/om-system-om-3--wm-b.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025c.jpg?width=1280",
-  "out": "img/wm/om-system-om-3--wm-c.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025d.jpg?width=1280",
-  "out": "img/wm/om-system-om-3--wm-d.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025e.jpg?width=1280",
-  "out": "img/wm/om-system-om-3--wm-e.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025f.jpg?width=1280",
-  "out": "img/wm/om-system-om-3--wm-f.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025g.jpg?width=1280",
-  "out": "img/wm/om-system-om-3--wm-g.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025h.jpg?width=1280",
-  "out": "img/wm/om-system-om-3--wm-h.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022a.jpg?width=1280",
-  "out": "img/wm/om-system-om-5--wm-a.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022b.jpg?width=1280",
-  "out": "img/wm/om-system-om-5--wm-b.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022c.jpg?width=1280",
-  "out": "img/wm/om-system-om-5--wm-c.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022d.jpg?width=1280",
-  "out": "img/wm/om-system-om-5--wm-d.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022e.jpg?width=1280",
-  "out": "img/wm/om-system-om-5--wm-e.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022f.jpg?width=1280",
-  "out": "img/wm/om-system-om-5--wm-f.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022g.jpg?width=1280",
-  "out": "img/wm/om-system-om-5--wm-g.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022h.jpg?width=1280",
-  "out": "img/wm/om-system-om-5--wm-h.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020a.jpg?width=1280",
-  "out": "img/wm/olympus-e-m10-iv--wm-a.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020b.jpg?width=1280",
-  "out": "img/wm/olympus-e-m10-iv--wm-b.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020c.jpg?width=1280",
-  "out": "img/wm/olympus-e-m10-iv--wm-c.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020d.jpg?width=1280",
-  "out": "img/wm/olympus-e-m10-iv--wm-d.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020e.jpg?width=1280",
-  "out": "img/wm/olympus-e-m10-iv--wm-e.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021a.jpg?width=1280",
-  "out": "img/wm/olympus-e-p7--wm-a.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021b.jpg?width=1280",
-  "out": "img/wm/olympus-e-p7--wm-b.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021c.jpg?width=1280",
-  "out": "img/wm/olympus-e-p7--wm-c.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021d.jpg?width=1280",
-  "out": "img/wm/olympus-e-p7--wm-d.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021e.jpg?width=1280",
-  "out": "img/wm/olympus-e-p7--wm-e.jpg"
- },
- {
-  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021f.jpg?width=1280",
-  "out": "img/wm/olympus-e-p7--wm-f.jpg"
+  "url": "https://web.archive.org/web/2026id_/https://www.dpreview.com/products/sigma/lenses?page=3",
+  "out": "html/dprlens/sigma-p3.html"
  }
 ]
