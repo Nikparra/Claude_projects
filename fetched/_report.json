@@ -1,119 +1,578 @@
 [
  {
-  "out": "img/lens/xf-16-55-ii--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2024/10/product-thumb_xf16-55mmf28-ii-1.jpg",
+  "out": "img/wm/fujifilm-x-t50--wm-a.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025a.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2024/10/product-thumb_xf16-55mmf28-ii-1.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Fujifilm_X-T50_25_may_2025a.jpg/1280px-Fujifilm_X-T50_25_may_2025a.jpg",
   "content_type": "image/jpeg",
-  "bytes": 20685,
+  "bytes": 297792,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-18-55--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2016/10/5_thum_xf18-55mmf2-8-4-r-lm-ois.jpg",
+  "out": "img/wm/fujifilm-x-t50--wm-b.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025b.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2016/10/5_thum_xf18-55mmf2-8-4-r-lm-ois.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fujifilm_X-T50_25_may_2025b.jpg/1280px-Fujifilm_X-T50_25_may_2025b.jpg",
   "content_type": "image/jpeg",
-  "bytes": 23559,
+  "bytes": 234394,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-16-80--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2019/10/xf16-80mmf4-r-ois-wr_thum.jpg",
+  "out": "img/wm/fujifilm-x-t50--wm-c.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025c.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2019/10/xf16-80mmf4-r-ois-wr_thum.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fujifilm_X-T50_25_may_2025c.jpg/1280px-Fujifilm_X-T50_25_may_2025c.jpg",
   "content_type": "image/jpeg",
-  "bytes": 20020,
+  "bytes": 195676,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-70-300--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2021/01/thum_xf70-300mm-lboe.jpg",
+  "out": "img/wm/fujifilm-x-t50--wm-d.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025d.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fujifilm_X-T50_25_may_2025d.jpg/1280px-Fujifilm_X-T50_25_may_2025d.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-t50--wm-e.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025e.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2021/01/thum_xf70-300mm-lboe.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fujifilm_X-T50_25_may_2025e.jpg/1280px-Fujifilm_X-T50_25_may_2025e.jpg",
   "content_type": "image/jpeg",
-  "bytes": 23901,
+  "bytes": 214611,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-50-140--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2016/10/3_thum_xf50-140mmf2_8-r-lm-ois-wr.jpg",
+  "out": "img/wm/fujifilm-x-t50--wm-f.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025f.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fujifilm_X-T50_25_may_2025f.jpg/1280px-Fujifilm_X-T50_25_may_2025f.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-t50--wm-g.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-T50_25_may_2025g.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2016/10/3_thum_xf50-140mmf2_8-r-lm-ois-wr.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fujifilm_X-T50_25_may_2025g.jpg/1280px-Fujifilm_X-T50_25_may_2025g.jpg",
   "content_type": "image/jpeg",
-  "bytes": 27614,
+  "bytes": 199795,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-10-24--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2020/10/xf10-24mmf4-r-ois-wr-product-list.jpg",
+  "out": "img/wm/fujifilm-x-h2--wm-a.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_22_nov_2022a.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fujifilm_X-H2_22_nov_2022a.jpg/1280px-Fujifilm_X-H2_22_nov_2022a.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-h2--wm-b.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_22_nov_2022b.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2020/10/xf10-24mmf4-r-ois-wr-product-list.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fujifilm_X-H2_22_nov_2022b.jpg/1280px-Fujifilm_X-H2_22_nov_2022b.jpg",
   "content_type": "image/jpeg",
-  "bytes": 19242,
+  "bytes": 399217,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-150-600--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2022/05/1_thum_xf150-600mmf56-8-r-lm-ois-wr_mgpf.jpg",
+  "out": "img/wm/fujifilm-x-h2--wm-a.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_4_nov_2022a.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fujifilm_X-H2_4_nov_2022a.jpg/1280px-Fujifilm_X-H2_4_nov_2022a.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-h2--wm-b.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_4_nov_2022b.jpg?width=1280",
+  "status": "skipped-exists"
+ },
+ {
+  "out": "img/wm/fujifilm-x-h2--wm-c.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_4_nov_2022c.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2022/05/1_thum_xf150-600mmf56-8-r-lm-ois-wr_mgpf.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fujifilm_X-H2_4_nov_2022c.jpg/1280px-Fujifilm_X-H2_4_nov_2022c.jpg",
   "content_type": "image/jpeg",
-  "bytes": 15171,
+  "bytes": 179138,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-18-f14--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2021/04/thum_xf18mmf1.4_haoi.jpg",
+  "out": "img/wm/fujifilm-x-h2--wm-d.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2_4_nov_2022d.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fujifilm_X-H2_4_nov_2022d.jpg/1280px-Fujifilm_X-H2_4_nov_2022d.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-h2s--wm-a.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022a.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2021/04/thum_xf18mmf1.4_haoi.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fujifilm_X-H2S_17_Jul_2022a.jpg/1280px-Fujifilm_X-H2S_17_Jul_2022a.jpg",
   "content_type": "image/jpeg",
-  "bytes": 19203,
+  "bytes": 276688,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-23-f14--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2021/09/1_thum_xf23mmf14_1214-1.jpg",
+  "out": "img/wm/fujifilm-x-h2s--wm-b.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022b.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fujifilm_X-H2S_17_Jul_2022b.jpg/1280px-Fujifilm_X-H2S_17_Jul_2022b.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-h2s--wm-c.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022c.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2021/09/1_thum_xf23mmf14_1214-1.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fujifilm_X-H2S_17_Jul_2022c.jpg/1280px-Fujifilm_X-H2S_17_Jul_2022c.jpg",
   "content_type": "image/jpeg",
-  "bytes": 17599,
+  "bytes": 296547,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-33-f14--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2021/09/1_thum_xf33mmf14-r-lm-wr_nakp-1.jpg",
+  "out": "img/wm/fujifilm-x-h2s--wm-d.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022d.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fujifilm_X-H2S_17_Jul_2022d.jpg/1280px-Fujifilm_X-H2S_17_Jul_2022d.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-h2s--wm-e.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022e.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2021/09/1_thum_xf33mmf14-r-lm-wr_nakp-1.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fujifilm_X-H2S_17_Jul_2022e.jpg/1280px-Fujifilm_X-H2S_17_Jul_2022e.jpg",
   "content_type": "image/jpeg",
-  "bytes": 20019,
+  "bytes": 238637,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-35-f14--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2016/10/7_thum_xf35mmf1-4-r.jpg",
+  "out": "img/wm/fujifilm-x-h2s--wm-f.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022f.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Fujifilm_X-H2S_17_Jul_2022f.jpg/1280px-Fujifilm_X-H2S_17_Jul_2022f.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-h2s--wm-g.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022g.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2016/10/7_thum_xf35mmf1-4-r.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fujifilm_X-H2S_17_Jul_2022g.jpg/1280px-Fujifilm_X-H2S_17_Jul_2022g.jpg",
   "content_type": "image/jpeg",
-  "bytes": 21224,
+  "bytes": 232049,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-56-f12--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2022/09/1_thum_xf56mmf12-r-wr_qwer.jpg",
+  "out": "img/wm/fujifilm-x-h2s--wm-h.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022h.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fujifilm_X-H2S_17_Jul_2022h.jpg/1280px-Fujifilm_X-H2S_17_Jul_2022h.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-h2s--wm-i.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-H2S_17_Jul_2022i.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2022/09/1_thum_xf56mmf12-r-wr_qwer.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Fujifilm_X-H2S_17_Jul_2022i.jpg/1280px-Fujifilm_X-H2S_17_Jul_2022i.jpg",
   "content_type": "image/jpeg",
-  "bytes": 18641,
+  "bytes": 311898,
   "status": "ok"
  },
  {
-  "out": "img/lens/xf-27-f28--cat.jpg",
-  "url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2021/01/thum_xf27mmf28-r-wr-lboe.jpg",
+  "out": "img/wm/fujifilm-x-s20--wm-a.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023a.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fujifilm_X-S20_19_aug_2023a.jpg/1280px-Fujifilm_X-S20_19_aug_2023a.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-s20--wm-b.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023b.jpg?width=1280",
   "http": 200,
-  "final_url": "https://fujifilm-x.b-cdn.net/wp-content/uploads/2021/01/thum_xf27mmf28-r-wr-lboe.jpg",
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fujifilm_X-S20_19_aug_2023b.jpg/1280px-Fujifilm_X-S20_19_aug_2023b.jpg",
   "content_type": "image/jpeg",
-  "bytes": 14571,
+  "bytes": 186543,
   "status": "ok"
+ },
+ {
+  "out": "img/wm/fujifilm-x-s20--wm-c.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023c.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fujifilm_X-S20_19_aug_2023c.jpg/1280px-Fujifilm_X-S20_19_aug_2023c.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-s20--wm-d.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023d.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fujifilm_X-S20_19_aug_2023d.jpg/1280px-Fujifilm_X-S20_19_aug_2023d.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 168206,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/fujifilm-x-s20--wm-e.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023e.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fujifilm_X-S20_19_aug_2023e.jpg/1280px-Fujifilm_X-S20_19_aug_2023e.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-s20--wm-f.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023f.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Fujifilm_X-S20_19_aug_2023f.jpg/1280px-Fujifilm_X-S20_19_aug_2023f.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 139027,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/fujifilm-x-s20--wm-g.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-S20_19_aug_2023g.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Fujifilm_X-S20_19_aug_2023g.jpg/1280px-Fujifilm_X-S20_19_aug_2023g.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-pro3--wm-a.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019a.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Fujifilm_X-Pro3_26_oct_2019a.jpg/1280px-Fujifilm_X-Pro3_26_oct_2019a.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 304623,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/fujifilm-x-pro3--wm-b.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019b.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fujifilm_X-Pro3_26_oct_2019b.jpg/1280px-Fujifilm_X-Pro3_26_oct_2019b.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-pro3--wm-c.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019c.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Fujifilm_X-Pro3_26_oct_2019c.jpg/1280px-Fujifilm_X-Pro3_26_oct_2019c.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 178956,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/fujifilm-x-pro3--wm-d.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019d.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fujifilm_X-Pro3_26_oct_2019d.jpg/1280px-Fujifilm_X-Pro3_26_oct_2019d.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/fujifilm-x-pro3--wm-e.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019e.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fujifilm_X-Pro3_26_oct_2019e.jpg/1280px-Fujifilm_X-Pro3_26_oct_2019e.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 274206,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/fujifilm-x-pro3--wm-f.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm_X-Pro3_26_oct_2019f.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fujifilm_X-Pro3_26_oct_2019f.jpg/1280px-Fujifilm_X-Pro3_26_oct_2019f.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 235626,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/om-system-om-1-ii--wm-a.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024a.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/OM_System_OM-1_Mark_II_9_mar_2024a.jpg/1280px-OM_System_OM-1_Mark_II_9_mar_2024a.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/om-system-om-1-ii--wm-b.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024b.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/OM_System_OM-1_Mark_II_9_mar_2024b.jpg/1280px-OM_System_OM-1_Mark_II_9_mar_2024b.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 296896,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/om-system-om-1-ii--wm-c.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024c.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/OM_System_OM-1_Mark_II_9_mar_2024c.jpg/1280px-OM_System_OM-1_Mark_II_9_mar_2024c.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/om-system-om-1-ii--wm-e.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024e.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/OM_System_OM-1_Mark_II_9_mar_2024e.jpg/1280px-OM_System_OM-1_Mark_II_9_mar_2024e.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 262738,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/om-system-om-1-ii--wm-f.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024f.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/OM_System_OM-1_Mark_II_9_mar_2024f.jpg/1280px-OM_System_OM-1_Mark_II_9_mar_2024f.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/om-system-om-1-ii--wm-g.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-1_Mark_II_9_mar_2024g.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/OM_System_OM-1_Mark_II_9_mar_2024g.jpg/1280px-OM_System_OM-1_Mark_II_9_mar_2024g.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 193074,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/om-system-om-3--wm-a.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025a.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/OM_System_OM-3_28_feb_2025a.jpg/1280px-OM_System_OM-3_28_feb_2025a.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/om-system-om-3--wm-b.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025b.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/OM_System_OM-3_28_feb_2025b.jpg/1280px-OM_System_OM-3_28_feb_2025b.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 354407,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/om-system-om-3--wm-c.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025c.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/OM_System_OM-3_28_feb_2025c.jpg/1280px-OM_System_OM-3_28_feb_2025c.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/om-system-om-3--wm-d.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025d.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/OM_System_OM-3_28_feb_2025d.jpg/1280px-OM_System_OM-3_28_feb_2025d.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 150511,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/om-system-om-3--wm-e.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025e.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/OM_System_OM-3_28_feb_2025e.jpg/1280px-OM_System_OM-3_28_feb_2025e.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/om-system-om-3--wm-f.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025f.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/OM_System_OM-3_28_feb_2025f.jpg/1280px-OM_System_OM-3_28_feb_2025f.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 219476,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/om-system-om-3--wm-g.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025g.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/OM_System_OM-3_28_feb_2025g.jpg/1280px-OM_System_OM-3_28_feb_2025g.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/om-system-om-3--wm-h.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-3_28_feb_2025h.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/OM_System_OM-3_28_feb_2025h.jpg/1280px-OM_System_OM-3_28_feb_2025h.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 368800,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/om-system-om-5--wm-a.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022a.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/OM_System_OM-5_22_nov_2022a.jpg/1280px-OM_System_OM-5_22_nov_2022a.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/om-system-om-5--wm-b.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022b.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/OM_System_OM-5_22_nov_2022b.jpg/1280px-OM_System_OM-5_22_nov_2022b.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 385263,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/om-system-om-5--wm-c.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022c.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/OM_System_OM-5_22_nov_2022c.jpg/1280px-OM_System_OM-5_22_nov_2022c.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/om-system-om-5--wm-d.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022d.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/OM_System_OM-5_22_nov_2022d.jpg/1280px-OM_System_OM-5_22_nov_2022d.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 317952,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/om-system-om-5--wm-e.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022e.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/OM_System_OM-5_22_nov_2022e.jpg/1280px-OM_System_OM-5_22_nov_2022e.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/om-system-om-5--wm-f.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022f.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/OM_System_OM-5_22_nov_2022f.jpg/1280px-OM_System_OM-5_22_nov_2022f.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 259204,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/om-system-om-5--wm-g.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022g.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/OM_System_OM-5_22_nov_2022g.jpg/1280px-OM_System_OM-5_22_nov_2022g.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/om-system-om-5--wm-h.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/OM_System_OM-5_22_nov_2022h.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/OM_System_OM-5_22_nov_2022h.jpg/1280px-OM_System_OM-5_22_nov_2022h.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 320006,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/olympus-e-m10-iv--wm-a.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020a.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020a.jpg/1280px-Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020a.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/olympus-e-m10-iv--wm-b.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020b.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020b.jpg/1280px-Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020b.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 394506,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/olympus-e-m10-iv--wm-c.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020c.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020c.jpg/1280px-Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020c.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/olympus-e-m10-iv--wm-d.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020d.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020d.jpg/1280px-Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020d.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 203271,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/olympus-e-m10-iv--wm-e.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020e.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020e.jpg/1280px-Olympus_OM-D_E-M10_Mark_IV_24_Oct_2020e.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/olympus-e-p7--wm-a.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021a.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympus_PEN_E-P7_14_Jul_2021a.jpg/1280px-Olympus_PEN_E-P7_14_Jul_2021a.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 238013,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/olympus-e-p7--wm-b.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021b.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Olympus_PEN_E-P7_14_Jul_2021b.jpg/1280px-Olympus_PEN_E-P7_14_Jul_2021b.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/olympus-e-p7--wm-c.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021c.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Olympus_PEN_E-P7_14_Jul_2021c.jpg/1280px-Olympus_PEN_E-P7_14_Jul_2021c.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 219914,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/olympus-e-p7--wm-d.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021d.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Olympus_PEN_E-P7_14_Jul_2021d.jpg/1280px-Olympus_PEN_E-P7_14_Jul_2021d.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
+ },
+ {
+  "out": "img/wm/olympus-e-p7--wm-e.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021e.jpg?width=1280",
+  "http": 200,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Olympus_PEN_E-P7_14_Jul_2021e.jpg/1280px-Olympus_PEN_E-P7_14_Jul_2021e.jpg",
+  "content_type": "image/jpeg",
+  "bytes": 178429,
+  "status": "ok"
+ },
+ {
+  "out": "img/wm/olympus-e-p7--wm-f.jpg",
+  "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_PEN_E-P7_14_Jul_2021f.jpg?width=1280",
+  "http": 429,
+  "final_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Olympus_PEN_E-P7_14_Jul_2021f.jpg/1280px-Olympus_PEN_E-P7_14_Jul_2021f.jpg",
+  "content_type": "text/html; charset=utf-8",
+  "status": "http-error"
  }
 ]
