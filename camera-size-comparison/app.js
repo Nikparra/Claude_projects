@@ -228,9 +228,10 @@ function drawFront(slot, cam, lens, color) {
   if (camPh) {
     const wMM = camPh.spec.widthMM || cam.widthMM;
     const hMM = wMM * camPh.h / camPh.w;
+    const baseFrac = camPh.spec.baseFrac || 0;   // image padding below the camera base
     const layoutW = Math.max(cam.widthMM, wMM);
-    grp.appendChild(photoEl(camPh, (layoutW - wMM) / 2 * s, -hMM * s, wMM * s, hMM * s));
-    return { group: grp, widthMM: layoutW, heightMM: hMM };
+    grp.appendChild(photoEl(camPh, (layoutW - wMM) / 2 * s, -hMM * (1 - baseFrac) * s, wMM * s, hMM * s));
+    return { group: grp, widthMM: layoutW, heightMM: hMM * (1 - baseFrac) };
   }
 
   // main body below the hump line
@@ -279,9 +280,10 @@ function drawRear(slot, cam, lens, color) {
   if (camPh) {
     const wMM = camPh.spec.widthMM || cam.widthMM;
     const hMM = wMM * camPh.h / camPh.w;
+    const baseFrac = camPh.spec.baseFrac || 0;   // image padding below the camera base
     const layoutW = Math.max(cam.widthMM, wMM);
-    grp.appendChild(photoEl(camPh, (layoutW - wMM) / 2 * s, -hMM * s, wMM * s, hMM * s));
-    return { group: grp, widthMM: layoutW, heightMM: hMM };
+    grp.appendChild(photoEl(camPh, (layoutW - wMM) / 2 * s, -hMM * (1 - baseFrac) * s, wMM * s, hMM * s));
+    return { group: grp, widthMM: layoutW, heightMM: hMM * (1 - baseFrac) };
   }
 
   grp.appendChild(rect(0, g.humpH, cam.widthMM, H - g.humpH, 5, body));

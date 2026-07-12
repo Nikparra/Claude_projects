@@ -10,16 +10,19 @@ const CAMERAS = [
   // ---- Fujifilm ----
   { id: 'fujifilm-x-t5', brand: 'Fujifilm', name: 'X-T5', mount: 'X', sensor: 'APS-C',
     widthMM: 129.5, heightMM: 91, depthMM: 63.8, depthMinMM: 35, weightG: 557,
-    depthInclEyecup: true, evf: 'center', grip: 'small', source: 'https://www.fujifilm-x.com/en-us/products/cameras/x-t5/specifications/' },
+    depthInclEyecup: true, evf: 'center', grip: 'small', photos: { front: { src: 'https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20X-T5%204%20nov%202022a.jpg' } },  // Commons product shot — angle/crop unverified; recalibrate widthMM after checking
+    source: 'https://www.fujifilm-x.com/en-us/products/cameras/x-t5/specifications/' },
   { id: 'fujifilm-x-t50', brand: 'Fujifilm', name: 'X-T50', mount: 'X', sensor: 'APS-C',
     widthMM: 123.8, heightMM: 84, depthMM: 48.8, weightG: 438,
-    depthInclEyecup: true, evf: 'center', grip: 'small', source: 'https://www.fujifilm-x.com/en-us/products/cameras/x-t50/specifications/' },
+    depthInclEyecup: true, evf: 'center', grip: 'small', photos: { front: { src: 'https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20X-T50%2025%20may%202025a.jpg' } },  // Commons product shot — angle/crop unverified; recalibrate widthMM after checking
+    source: 'https://www.fujifilm-x.com/en-us/products/cameras/x-t50/specifications/' },
   { id: 'fujifilm-x-h2', brand: 'Fujifilm', name: 'X-H2', mount: 'X', sensor: 'APS-C',
     widthMM: 136.3, heightMM: 92.9, depthMM: 84.6, depthMinMM: 42.8, weightG: 660,
     depthInclEyecup: true, evf: 'center', grip: 'deep', source: 'https://www.fujifilm-x.com/global/products/cameras/x-h2/specifications/' },
   { id: 'fujifilm-x-h2s', brand: 'Fujifilm', name: 'X-H2S', mount: 'X', sensor: 'APS-C',
     widthMM: 136.3, heightMM: 92.9, depthMM: 84.6, depthMinMM: 42.8, weightG: 660,
-    depthInclEyecup: true, evf: 'center', grip: 'deep', source: 'https://fujifilm-dsc.com/en/manual/x-h2s/technical_notes/spec/' },
+    depthInclEyecup: true, evf: 'center', grip: 'deep', photos: { front: { src: 'https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20X-H2S%2017%20Jul%202022h.jpg' } },  // Commons product shot — angle/crop unverified; recalibrate widthMM after checking
+    source: 'https://fujifilm-dsc.com/en/manual/x-h2s/technical_notes/spec/' },
   { id: 'fujifilm-x-s20', brand: 'Fujifilm', name: 'X-S20', mount: 'X', sensor: 'APS-C',
     widthMM: 127.7, heightMM: 85.1, depthMM: 65.4, weightG: 491,
     depthInclEyecup: true, evf: 'center', grip: 'deep', source: 'https://www.fujifilm-x.com/global/products/cameras/x-s20/specifications/' },
@@ -30,6 +33,7 @@ const CAMERAS = [
     widthMM: 128, heightMM: 74.8, depthMM: 55.3, depthMinMM: 33.2, weightG: 521,
     evf: 'corner', grip: 'small',
     fixedLensName: '23mm f/2 (fixed)', fixedLensProtrusionMM: 22.1, fixedLensDiameterMM: 60,
+    photos: { front: { src: 'https://commons.wikimedia.org/wiki/Special:FilePath/Fujifilm%20X100VI%2025%20may%202024a.jpg' } },  // Commons product shot — angle/crop unverified; recalibrate widthMM after checking
     source: 'https://www.fujifilm-x.com/global/products/cameras/x100vi/specifications/' },
   { id: 'fujifilm-x-pro3', brand: 'Fujifilm', name: 'X-Pro3', mount: 'X', sensor: 'APS-C',
     widthMM: 140.5, heightMM: 82.8, depthMM: 46.1, depthMinMM: 35.4, weightG: 497,
@@ -41,13 +45,16 @@ const CAMERAS = [
   // ---- OM System / Olympus ----
   { id: 'om-system-om-1-ii', brand: 'OM System', name: 'OM-1 Mark II', mount: 'MFT', sensor: 'Micro Four Thirds',
     widthMM: 134.8, heightMM: 91.6, depthMM: 72.7, weightG: 599,
-    evf: 'center', grip: 'deep', source: 'https://explore.omsystem.com/us/en/om-1-mark-ii' },
+    evf: 'center', grip: 'deep', photos: { front: { src: 'https://commons.wikimedia.org/wiki/Special:FilePath/OM%20System%20OM-1%20Mark%20II%209%20mar%202024e.jpg' } },  // Commons product shot — angle/crop unverified; recalibrate widthMM after checking
+    source: 'https://explore.omsystem.com/us/en/om-1-mark-ii' },
   { id: 'om-system-om-3', brand: 'OM System', name: 'OM-3', mount: 'MFT', sensor: 'Micro Four Thirds',
     widthMM: 139.3, heightMM: 88.9, depthMM: 45.8, weightG: 496,
-    evf: 'center', grip: 'flat', source: 'https://explore.omsystem.com/us/en/om-3' },
+    evf: 'center', grip: 'flat', photos: { front: { src: 'https://commons.wikimedia.org/wiki/Special:FilePath/OM%20System%20OM-3%2028%20feb%202025a.jpg' } },  // Commons product shot — angle/crop unverified; recalibrate widthMM after checking
+    source: 'https://explore.omsystem.com/us/en/om-3' },
   { id: 'om-system-om-5', brand: 'OM System', name: 'OM-5', mount: 'MFT', sensor: 'Micro Four Thirds',
     widthMM: 125.3, heightMM: 85.2, depthMM: 49.7, weightG: 414,
-    evf: 'center', grip: 'small', source: 'https://www.dpreview.com/products/olympus/slrs/omsystem_om5/specifications' },
+    evf: 'center', grip: 'small', photos: { front: { src: 'https://commons.wikimedia.org/wiki/Special:FilePath/OM%20System%20OM-5%2022%20nov%202022a.jpg' } },  // Commons product shot — angle/crop unverified; recalibrate widthMM after checking
+    source: 'https://www.dpreview.com/products/olympus/slrs/omsystem_om5/specifications' },
   { id: 'om-system-om-5-ii', brand: 'OM System', name: 'OM-5 Mark II', mount: 'MFT', sensor: 'Micro Four Thirds',
     widthMM: 125.3, heightMM: 85.2, depthMM: 52, weightG: 418,
     evf: 'center', grip: 'small', source: 'https://explore.omsystem.com/us/en/om-5-mark-ii' },

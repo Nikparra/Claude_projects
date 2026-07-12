@@ -48,8 +48,9 @@ photos: {
                                 //   LCD-back plane sits — this is the alignment anchor
            includesLens: false  // true if the shot already has a lens mounted
          },
-  front: { src: '…', widthMM: 129.5 },
-  rear:  { src: '…', widthMM: 129.5 },
+  front: { src: '…', widthMM: 129.5,
+           baseFrac: 0 },       // fraction of image height that is padding below the body
+  rear:  { src: '…', widthMM: 129.5, baseFrac: 0 },
 },
 
 // on a lens (upright side profile, mount at the bottom):
