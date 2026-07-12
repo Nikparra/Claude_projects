@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Camera Size Comparison</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">📷</span>
+    <div>
+      <h1>Camera Size Comparison</h1>
+      <p class="tagline">Fujifilm · OM System · Sigma — drawn to scale from manufacturer specs</p>
+    </div>
+  </div>
+  <div class="topbar-controls">
+    <label class="control">
+      <span>Align at</span>
+      <select id="alignMode">
+        <option value="lcd" selected>Back of LCD</option>
+        <option value="eyecup">Rear of eyecup</option>
+        <option value="mount">Lens mount flange</option>
+        <option value="front">Front of lens</option>
+      </select>
+    </label>
+    <label class="control">
+      <span>Zoom</span>
+      <input type="range" id="zoom" min="1.2" max="4" step="0.1" value="2.2">
+    </label>
+    <label class="control checkbox">
+      <input type="checkbox" id="overlayToggle">
+      <span>Overlay</span>
+    </label>
+    <button id="shareBtn" class="btn" title="Copy a shareable link">Copy link</button>
+  </div>
+</header>
+
+<section class="slots" id="slots"></section>
+
+<main id="views">
+  <section class="view-section" id="view-top">
+    <div class="view-header">
+      <h2>Top view — body + lens</h2>
+      <p class="view-hint">Cameras are aligned at the <strong id="alignLabel">back of the LCD</strong> (dashed line). Use each camera's <em>nudge</em> slider to fine-tune its depth alignment.</p>
+    </div>
+    <div class="canvas-wrap"><svg id="svg-top"></svg></div>
+  </section>
+
+  <section class="view-section" id="view-front">
+    <div class="view-header"><h2>Front view</h2></div>
+    <div class="canvas-wrap"><svg id="svg-front"></svg></div>
+  </section>
+
+  <section class="view-section" id="view-rear">
+    <div class="view-header"><h2>Rear view</h2></div>
+    <div class="canvas-wrap"><svg id="svg-rear"></svg></div>
+  </section>
+
+  <section class="view-section" id="view-specs">
+    <div class="view-header"><h2>Specs</h2></div>
+    <div class="table-wrap"><table id="specTable"></table></div>
+  </section>
+</main>
+
+<footer class="foot">
+  <p>Dimensions and weights from manufacturer-published specifications; renderings are schematic (grip, hump and control shapes are approximated). Weights include battery &amp; card where published. To add cameras or lenses, edit <code>data.js</code> — or just ask Claude to add them.</p>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
