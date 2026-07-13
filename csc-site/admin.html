@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Calibration — Camera Size Comparison</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+  .adm-wrap{max-width:1100px;margin:0 auto;padding:14px}
+  .adm-top{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:12px}
+  .adm-top select{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:9px;background:#fff;max-width:100%}
+  .adm-grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:14px}
+  @media(max-width:860px){.adm-grid{grid-template-columns:1fr}}
+  .canvas-box{position:relative;background:
+    repeating-conic-gradient(#e7e9ee 0% 25%, #f6f7fa 0% 50%) 0 0/20px 20px;
+    border:1px solid var(--line);border-radius:12px;overflow:hidden;user-select:none;touch-action:none}
+  .canvas-box img{display:block;width:100%;height:auto;pointer-events:none}
+  .anchor{position:absolute;z-index:5;cursor:grab}
+  .anchor.h{left:0;right:0;height:0;border-top:2px solid;cursor:ns-resize}
+  .anchor.v{top:0;bottom:0;width:0;border-left:2px solid;cursor:ew-resize}
+  .anchor .tag{position:absolute;font-size:10px;font-weight:800;color:#fff;padding:1px 6px;border-radius:5px;white-space:nowrap}
+  .anchor.h .tag{left:6px;top:2px}
+  .anchor.v .tag{top:6px;left:2px}
+  .a-lcd{border-color:#e11d48}.a-lcd .tag{background:#e11d48}
+  .a-flange{border-color:#2563eb}.a-flange .tag{background:#2563eb}
+  .a-mount{border-color:#0f9d58}.a-mount .tag{background:#0f9d58}
+  .a-axis{border-color:#0f9d58}.a-axis .tag{background:#0f9d58}
+  .a-mounty{border-color:#2563eb}.a-mounty .tag{background:#2563eb}
+  .ghost-line{position:absolute;left:0;right:0;border-top:1.5px dashed #9aa0ab;z-index:4;pointer-events:none}
+  .ghost-line .tag{position:absolute;right:6px;top:1px;font-size:9.5px;color:#5d626d;background:rgba(255,255,255,.8);padding:0 5px;border-radius:4px}
+  .side-panel{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px;font-size:12.5px;align-self:start}
+  .side-panel h3{margin:2px 0 8px;font-size:13.5px}
+  .kv{display:grid;grid-template-columns:auto 1fr;gap:3px 10px;margin-bottom:10px}
+  .kv dt{color:var(--muted)} .kv dd{margin:0;text-align:right;font-weight:600;font-variant-numeric:tabular-nums}
+  .kv dd.bad{color:#b3261e} .kv dd.good{color:var(--ok)}
+  textarea{width:100%;height:150px;font:11px/1.4 ui-monospace,Menlo,Consolas,monospace;border:1px solid var(--line);border-radius:9px;padding:8px;background:#fbfbfd}
+  .row-btns{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0}
+  .status-sel{display:flex;gap:6px;margin:6px 0 10px}
+  .status-sel label{display:flex;align-items:center;gap:4px;font-size:12px;border:1px solid var(--line);border-radius:8px;padding:4px 8px;cursor:pointer}
+  .zoombar{display:flex;align-items:center;gap:8px;margin:0 0 8px}
+  .note{font-size:11.5px;color:var(--muted)}
+</style>
+</head>
+<body>
+<header class="app-header">
+  <div class="brand">
+    <svg width="24" height="24" viewBox="0 0 32 32" aria-hidden="true"><rect x="2" y="9" width="28" height="18" rx="4" fill="#4f46e5"/><circle cx="16" cy="18" r="7" fill="#fff"/><circle cx="16" cy="18" r="4.2" fill="#4f46e5"/><rect x="6" y="5" width="8" height="5" rx="1.5" fill="#4f46e5"/></svg>
+    <h1>Image calibration</h1>
+  </div>
+  <div class="header-actions"><a class="btn ghost" href="index.html">← Back to comparison</a></div>
+</header>
+
+<div class="adm-wrap">
+  <div class="adm-top">
+    <select id="prodSel" aria-label="Product to calibrate"></select>
+    <span class="note">Drag the colored lines onto the image. Changes save to <strong>this browser</strong> and apply to the main page immediately; use “Copy JSON” to make them permanent in <code>data/products.js</code> (paste it to Claude or edit the file).</span>
+  </div>
+
+  <div class="adm-grid">
+    <div>
+      <div class="zoombar">
+        <label class="note" for="zoom">Zoom</label>
+        <input id="zoom" type="range" min="0.4" max="2.5" step="0.05" value="1" style="width:180px;accent-color:#4f46e5">
+        <span class="note" id="imgMeta"></span>
+      </div>
+      <div style="overflow:auto;max-height:76vh;border-radius:12px">
+        <div class="canvas-box" id="canvasBox" style="width:100%"></div>
+      </div>
+    </div>
+
+    <div class="side-panel">
+      <h3 id="prodName">—</h3>
+      <dl class="kv" id="kv"></dl>
+      <div class="status-sel" id="statusSel">
+        <label><input type="radio" name="st" value="estimate"> estimate</label>
+        <label><input type="radio" name="st" value="verified"> verified</label>
+        <label><input type="radio" name="st" value="placeholder"> placeholder</label>
+      </div>
+      <div class="row-btns">
+        <button class="btn primary" id="btnSave">Save to this browser</button>
+        <button class="btn" id="btnRevert">Revert</button>
+      </div>
+      <div class="row-btns">
+        <button class="btn" id="btnCopy">Copy JSON snippet</button>
+        <button class="btn" id="btnFull">Download full products.js</button>
+      </div>
+      <textarea id="jsonOut" readonly spellcheck="false"></textarea>
+      <p class="note" id="calibNote"></p>
+    </div>
+  </div>
+</div>
+
+<script src="data/products.js"></script>
+<script src="admin.js"></script>
+</body>
+</html>

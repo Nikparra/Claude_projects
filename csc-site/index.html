@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Camera Size Comparison</title>
+<meta name="description" content="Compare real physical camera + lens sizes from a top-down view, at true relative scale.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='9' width='28' height='18' rx='4' fill='%234f46e5'/%3E%3Ccircle cx='16' cy='18' r='7' fill='%23fff'/%3E%3Ccircle cx='16' cy='18' r='4.2' fill='%234f46e5'/%3E%3Crect x='6' y='5' width='8' height='5' rx='1.5' fill='%234f46e5'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="app-header">
+  <div class="brand">
+    <svg width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><rect x="2" y="9" width="28" height="18" rx="4" fill="#4f46e5"/><circle cx="16" cy="18" r="7" fill="#fff"/><circle cx="16" cy="18" r="4.2" fill="#4f46e5"/><rect x="6" y="5" width="8" height="5" rx="1.5" fill="#4f46e5"/></svg>
+    <h1>Camera Size Comparison</h1>
+  </div>
+  <div class="header-actions">
+    <button id="btnSaves" class="btn ghost" title="Saved comparisons">Saves</button>
+    <button id="btnShare" class="btn ghost" title="Copy a shareable link">Share</button>
+    <a class="btn ghost" href="admin.html" title="Image calibration">Calibrate</a>
+  </div>
+</header>
+
+<div class="toolbar">
+  <button id="btnAdd" class="btn primary">+ Add setup</button>
+  <form id="cmdForm" class="cmd" autocomplete="off">
+    <input id="cmdInput" type="text" spellcheck="false"
+           placeholder='Try: “Add an X-E5 with the Sigma 18-50”' aria-label="Command">
+    <button class="btn" type="submit">Go</button>
+  </form>
+  <div class="scale-group">
+    <label for="scaleRange">Scale</label>
+    <input id="scaleRange" type="range" min="1.2" max="6" step="0.05" value="2.6" aria-label="Global scale">
+    <button id="btnFit" class="btn ghost" title="Fit all setups to the window">Fit</button>
+  </div>
+</div>
+<div id="cmdFeedback" class="cmd-feedback" role="status"></div>
+
+<main id="stageWrap">
+  <div id="stage" tabindex="0" aria-label="Comparison stage">
+    <div id="row">
+      <!-- baseline + setup cells injected here -->
+    </div>
+  </div>
+  <div class="stage-footer">
+    <div class="ruler"><div id="rulerBar"></div><span id="rulerLabel">50 mm</span></div>
+    <div class="stage-hint">Drag a camera up/down (or select + arrow keys) to nudge its alignment in 1&nbsp;mm steps. Shared line = rear LCD surface.</div>
+  </div>
+</main>
+
+<div id="empty" class="empty hidden">
+  <p>No setups yet.</p>
+  <button class="btn primary" id="btnAddEmpty">+ Add your first setup</button>
+</div>
+
+<footer class="app-footer">
+  <p><strong>Accuracy:</strong> bodies are scaled by manufacturer-published width; lenses by published diameter and mounted length. Image anchors (LCD plane, mount position) are visual calibrations — see status chips on each card. Weights include battery &amp; card where the manufacturer publishes them that way.</p>
+  <p>Product photos remain © their manufacturers/sources — used here for personal, non-commercial size reference. <a href="#" id="btnCredits">Image credits</a>. Not affiliated with Fujifilm, OM System, Sigma, or camerasize.com.</p>
+</footer>
+
+<!-- Picker modal -->
+<div class="modal hidden" id="pickerModal" role="dialog" aria-modal="true" aria-label="Add a setup">
+  <div class="modal-card">
+    <div class="modal-head"><h2 id="pickerTitle">Add a setup</h2><button class="x" data-close>&times;</button></div>
+    <div class="modal-body">
+      <div id="pickerCams">
+        <h3>Camera</h3>
+        <div id="camGrid" class="grid"></div>
+      </div>
+      <div id="pickerLenses">
+        <h3>Lens <span class="muted" id="lensMountNote"></span></h3>
+        <div id="lensGrid" class="grid"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Saves modal -->
+<div class="modal hidden" id="savesModal" role="dialog" aria-modal="true" aria-label="Saved comparisons">
+  <div class="modal-card">
+    <div class="modal-head"><h2>Saved comparisons</h2><button class="x" data-close>&times;</button></div>
+    <div class="modal-body">
+      <form id="saveForm" class="save-form">
+        <input id="saveName" type="text" placeholder="Name this comparison…" maxlength="60" required>
+        <button class="btn primary" type="submit">Save current</button>
+      </form>
+      <ul id="savesList" class="saves-list"></ul>
+      <p class="muted small">Saved in this browser (localStorage). Use Share for a portable link.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Share modal -->
+<div class="modal hidden" id="shareModal" role="dialog" aria-modal="true" aria-label="Share">
+  <div class="modal-card">
+    <div class="modal-head"><h2>Share this comparison</h2><button class="x" data-close>&times;</button></div>
+    <div class="modal-body">
+      <div class="share-row">
+        <input id="shareUrl" type="text" readonly>
+        <button id="btnCopyShare" class="btn primary">Copy</button>
+      </div>
+      <p class="muted small">The link encodes cameras, lenses, offsets and scale — no server needed.</p>
+    </div>
+  </div>
+</div>
+
+<!-- Credits modal -->
+<div class="modal hidden" id="creditsModal" role="dialog" aria-modal="true" aria-label="Image credits">
+  <div class="modal-card">
+    <div class="modal-head"><h2>Image credits &amp; sources</h2><button class="x" data-close>&times;</button></div>
+    <div class="modal-body"><ul id="creditsList" class="credits-list"></ul></div>
+  </div>
+</div>
+
+<div id="toast" class="toast hidden"></div>
+
+<script src="data/products.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
